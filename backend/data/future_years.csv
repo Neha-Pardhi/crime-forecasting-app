@@ -1,0 +1,1441 @@
+Year,City,Crime_Type
+2025,Delhi,Murder
+2025,Delhi,Theft
+2025,Delhi,Assault
+2025,Delhi,Kidnapping
+2025,Delhi,Cyber Crime
+2025,Delhi,Drug Trafficking
+2025,Delhi,Domestic Violence
+2025,Delhi,Robbery
+2025,Mumbai,Murder
+2025,Mumbai,Theft
+2025,Mumbai,Assault
+2025,Mumbai,Kidnapping
+2025,Mumbai,Cyber Crime
+2025,Mumbai,Drug Trafficking
+2025,Mumbai,Domestic Violence
+2025,Mumbai,Robbery
+2025,Bengaluru,Murder
+2025,Bengaluru,Theft
+2025,Bengaluru,Assault
+2025,Bengaluru,Kidnapping
+2025,Bengaluru,Cyber Crime
+2025,Bengaluru,Drug Trafficking
+2025,Bengaluru,Domestic Violence
+2025,Bengaluru,Robbery
+2025,Hyderabad,Murder
+2025,Hyderabad,Theft
+2025,Hyderabad,Assault
+2025,Hyderabad,Kidnapping
+2025,Hyderabad,Cyber Crime
+2025,Hyderabad,Drug Trafficking
+2025,Hyderabad,Domestic Violence
+2025,Hyderabad,Robbery
+2025,Ahmedabad,Murder
+2025,Ahmedabad,Theft
+2025,Ahmedabad,Assault
+2025,Ahmedabad,Kidnapping
+2025,Ahmedabad,Cyber Crime
+2025,Ahmedabad,Drug Trafficking
+2025,Ahmedabad,Domestic Violence
+2025,Ahmedabad,Robbery
+2025,Chennai,Murder
+2025,Chennai,Theft
+2025,Chennai,Assault
+2025,Chennai,Kidnapping
+2025,Chennai,Cyber Crime
+2025,Chennai,Drug Trafficking
+2025,Chennai,Domestic Violence
+2025,Chennai,Robbery
+2025,Kolkata,Murder
+2025,Kolkata,Theft
+2025,Kolkata,Assault
+2025,Kolkata,Kidnapping
+2025,Kolkata,Cyber Crime
+2025,Kolkata,Drug Trafficking
+2025,Kolkata,Domestic Violence
+2025,Kolkata,Robbery
+2025,Pune,Murder
+2025,Pune,Theft
+2025,Pune,Assault
+2025,Pune,Kidnapping
+2025,Pune,Cyber Crime
+2025,Pune,Drug Trafficking
+2025,Pune,Domestic Violence
+2025,Pune,Robbery
+2025,Jaipur,Murder
+2025,Jaipur,Theft
+2025,Jaipur,Assault
+2025,Jaipur,Kidnapping
+2025,Jaipur,Cyber Crime
+2025,Jaipur,Drug Trafficking
+2025,Jaipur,Domestic Violence
+2025,Jaipur,Robbery
+2025,Lucknow,Murder
+2025,Lucknow,Theft
+2025,Lucknow,Assault
+2025,Lucknow,Kidnapping
+2025,Lucknow,Cyber Crime
+2025,Lucknow,Drug Trafficking
+2025,Lucknow,Domestic Violence
+2025,Lucknow,Robbery
+2025,Nagpur,Murder
+2025,Nagpur,Theft
+2025,Nagpur,Assault
+2025,Nagpur,Kidnapping
+2025,Nagpur,Cyber Crime
+2025,Nagpur,Drug Trafficking
+2025,Nagpur,Domestic Violence
+2025,Nagpur,Robbery
+2025,Indore,Murder
+2025,Indore,Theft
+2025,Indore,Assault
+2025,Indore,Kidnapping
+2025,Indore,Cyber Crime
+2025,Indore,Drug Trafficking
+2025,Indore,Domestic Violence
+2025,Indore,Robbery
+2025,Bhopal,Murder
+2025,Bhopal,Theft
+2025,Bhopal,Assault
+2025,Bhopal,Kidnapping
+2025,Bhopal,Cyber Crime
+2025,Bhopal,Drug Trafficking
+2025,Bhopal,Domestic Violence
+2025,Bhopal,Robbery
+2025,Patna,Murder
+2025,Patna,Theft
+2025,Patna,Assault
+2025,Patna,Kidnapping
+2025,Patna,Cyber Crime
+2025,Patna,Drug Trafficking
+2025,Patna,Domestic Violence
+2025,Patna,Robbery
+2025,Ludhiana,Murder
+2025,Ludhiana,Theft
+2025,Ludhiana,Assault
+2025,Ludhiana,Kidnapping
+2025,Ludhiana,Cyber Crime
+2025,Ludhiana,Drug Trafficking
+2025,Ludhiana,Domestic Violence
+2025,Ludhiana,Robbery
+2025,Agra,Murder
+2025,Agra,Theft
+2025,Agra,Assault
+2025,Agra,Kidnapping
+2025,Agra,Cyber Crime
+2025,Agra,Drug Trafficking
+2025,Agra,Domestic Violence
+2025,Agra,Robbery
+2025,Nashik,Murder
+2025,Nashik,Theft
+2025,Nashik,Assault
+2025,Nashik,Kidnapping
+2025,Nashik,Cyber Crime
+2025,Nashik,Drug Trafficking
+2025,Nashik,Domestic Violence
+2025,Nashik,Robbery
+2025,Faridabad,Murder
+2025,Faridabad,Theft
+2025,Faridabad,Assault
+2025,Faridabad,Kidnapping
+2025,Faridabad,Cyber Crime
+2025,Faridabad,Drug Trafficking
+2025,Faridabad,Domestic Violence
+2025,Faridabad,Robbery
+2025,Meerut,Murder
+2025,Meerut,Theft
+2025,Meerut,Assault
+2025,Meerut,Kidnapping
+2025,Meerut,Cyber Crime
+2025,Meerut,Drug Trafficking
+2025,Meerut,Domestic Violence
+2025,Meerut,Robbery
+2025,Rajkot,Murder
+2025,Rajkot,Theft
+2025,Rajkot,Assault
+2025,Rajkot,Kidnapping
+2025,Rajkot,Cyber Crime
+2025,Rajkot,Drug Trafficking
+2025,Rajkot,Domestic Violence
+2025,Rajkot,Robbery
+2025,Varanasi,Murder
+2025,Varanasi,Theft
+2025,Varanasi,Assault
+2025,Varanasi,Kidnapping
+2025,Varanasi,Cyber Crime
+2025,Varanasi,Drug Trafficking
+2025,Varanasi,Domestic Violence
+2025,Varanasi,Robbery
+2025,Srinagar,Murder
+2025,Srinagar,Theft
+2025,Srinagar,Assault
+2025,Srinagar,Kidnapping
+2025,Srinagar,Cyber Crime
+2025,Srinagar,Drug Trafficking
+2025,Srinagar,Domestic Violence
+2025,Srinagar,Robbery
+2025,Ranchi,Murder
+2025,Ranchi,Theft
+2025,Ranchi,Assault
+2025,Ranchi,Kidnapping
+2025,Ranchi,Cyber Crime
+2025,Ranchi,Drug Trafficking
+2025,Ranchi,Domestic Violence
+2025,Ranchi,Robbery
+2025,Amritsar,Murder
+2025,Amritsar,Theft
+2025,Amritsar,Assault
+2025,Amritsar,Kidnapping
+2025,Amritsar,Cyber Crime
+2025,Amritsar,Drug Trafficking
+2025,Amritsar,Domestic Violence
+2025,Amritsar,Robbery
+2025,Guwahati,Murder
+2025,Guwahati,Theft
+2025,Guwahati,Assault
+2025,Guwahati,Kidnapping
+2025,Guwahati,Cyber Crime
+2025,Guwahati,Drug Trafficking
+2025,Guwahati,Domestic Violence
+2025,Guwahati,Robbery
+2025,Jodhpur,Murder
+2025,Jodhpur,Theft
+2025,Jodhpur,Assault
+2025,Jodhpur,Kidnapping
+2025,Jodhpur,Cyber Crime
+2025,Jodhpur,Drug Trafficking
+2025,Jodhpur,Domestic Violence
+2025,Jodhpur,Robbery
+2025,Coimbatore,Murder
+2025,Coimbatore,Theft
+2025,Coimbatore,Assault
+2025,Coimbatore,Kidnapping
+2025,Coimbatore,Cyber Crime
+2025,Coimbatore,Drug Trafficking
+2025,Coimbatore,Domestic Violence
+2025,Coimbatore,Robbery
+2025,Vijayawada,Murder
+2025,Vijayawada,Theft
+2025,Vijayawada,Assault
+2025,Vijayawada,Kidnapping
+2025,Vijayawada,Cyber Crime
+2025,Vijayawada,Drug Trafficking
+2025,Vijayawada,Domestic Violence
+2025,Vijayawada,Robbery
+2025,Chandigarh,Murder
+2025,Chandigarh,Theft
+2025,Chandigarh,Assault
+2025,Chandigarh,Kidnapping
+2025,Chandigarh,Cyber Crime
+2025,Chandigarh,Drug Trafficking
+2025,Chandigarh,Domestic Violence
+2025,Chandigarh,Robbery
+2025,Madurai,Murder
+2025,Madurai,Theft
+2025,Madurai,Assault
+2025,Madurai,Kidnapping
+2025,Madurai,Cyber Crime
+2025,Madurai,Drug Trafficking
+2025,Madurai,Domestic Violence
+2025,Madurai,Robbery
+2026,Delhi,Murder
+2026,Delhi,Theft
+2026,Delhi,Assault
+2026,Delhi,Kidnapping
+2026,Delhi,Cyber Crime
+2026,Delhi,Drug Trafficking
+2026,Delhi,Domestic Violence
+2026,Delhi,Robbery
+2026,Mumbai,Murder
+2026,Mumbai,Theft
+2026,Mumbai,Assault
+2026,Mumbai,Kidnapping
+2026,Mumbai,Cyber Crime
+2026,Mumbai,Drug Trafficking
+2026,Mumbai,Domestic Violence
+2026,Mumbai,Robbery
+2026,Bengaluru,Murder
+2026,Bengaluru,Theft
+2026,Bengaluru,Assault
+2026,Bengaluru,Kidnapping
+2026,Bengaluru,Cyber Crime
+2026,Bengaluru,Drug Trafficking
+2026,Bengaluru,Domestic Violence
+2026,Bengaluru,Robbery
+2026,Hyderabad,Murder
+2026,Hyderabad,Theft
+2026,Hyderabad,Assault
+2026,Hyderabad,Kidnapping
+2026,Hyderabad,Cyber Crime
+2026,Hyderabad,Drug Trafficking
+2026,Hyderabad,Domestic Violence
+2026,Hyderabad,Robbery
+2026,Ahmedabad,Murder
+2026,Ahmedabad,Theft
+2026,Ahmedabad,Assault
+2026,Ahmedabad,Kidnapping
+2026,Ahmedabad,Cyber Crime
+2026,Ahmedabad,Drug Trafficking
+2026,Ahmedabad,Domestic Violence
+2026,Ahmedabad,Robbery
+2026,Chennai,Murder
+2026,Chennai,Theft
+2026,Chennai,Assault
+2026,Chennai,Kidnapping
+2026,Chennai,Cyber Crime
+2026,Chennai,Drug Trafficking
+2026,Chennai,Domestic Violence
+2026,Chennai,Robbery
+2026,Kolkata,Murder
+2026,Kolkata,Theft
+2026,Kolkata,Assault
+2026,Kolkata,Kidnapping
+2026,Kolkata,Cyber Crime
+2026,Kolkata,Drug Trafficking
+2026,Kolkata,Domestic Violence
+2026,Kolkata,Robbery
+2026,Pune,Murder
+2026,Pune,Theft
+2026,Pune,Assault
+2026,Pune,Kidnapping
+2026,Pune,Cyber Crime
+2026,Pune,Drug Trafficking
+2026,Pune,Domestic Violence
+2026,Pune,Robbery
+2026,Jaipur,Murder
+2026,Jaipur,Theft
+2026,Jaipur,Assault
+2026,Jaipur,Kidnapping
+2026,Jaipur,Cyber Crime
+2026,Jaipur,Drug Trafficking
+2026,Jaipur,Domestic Violence
+2026,Jaipur,Robbery
+2026,Lucknow,Murder
+2026,Lucknow,Theft
+2026,Lucknow,Assault
+2026,Lucknow,Kidnapping
+2026,Lucknow,Cyber Crime
+2026,Lucknow,Drug Trafficking
+2026,Lucknow,Domestic Violence
+2026,Lucknow,Robbery
+2026,Nagpur,Murder
+2026,Nagpur,Theft
+2026,Nagpur,Assault
+2026,Nagpur,Kidnapping
+2026,Nagpur,Cyber Crime
+2026,Nagpur,Drug Trafficking
+2026,Nagpur,Domestic Violence
+2026,Nagpur,Robbery
+2026,Indore,Murder
+2026,Indore,Theft
+2026,Indore,Assault
+2026,Indore,Kidnapping
+2026,Indore,Cyber Crime
+2026,Indore,Drug Trafficking
+2026,Indore,Domestic Violence
+2026,Indore,Robbery
+2026,Bhopal,Murder
+2026,Bhopal,Theft
+2026,Bhopal,Assault
+2026,Bhopal,Kidnapping
+2026,Bhopal,Cyber Crime
+2026,Bhopal,Drug Trafficking
+2026,Bhopal,Domestic Violence
+2026,Bhopal,Robbery
+2026,Patna,Murder
+2026,Patna,Theft
+2026,Patna,Assault
+2026,Patna,Kidnapping
+2026,Patna,Cyber Crime
+2026,Patna,Drug Trafficking
+2026,Patna,Domestic Violence
+2026,Patna,Robbery
+2026,Ludhiana,Murder
+2026,Ludhiana,Theft
+2026,Ludhiana,Assault
+2026,Ludhiana,Kidnapping
+2026,Ludhiana,Cyber Crime
+2026,Ludhiana,Drug Trafficking
+2026,Ludhiana,Domestic Violence
+2026,Ludhiana,Robbery
+2026,Agra,Murder
+2026,Agra,Theft
+2026,Agra,Assault
+2026,Agra,Kidnapping
+2026,Agra,Cyber Crime
+2026,Agra,Drug Trafficking
+2026,Agra,Domestic Violence
+2026,Agra,Robbery
+2026,Nashik,Murder
+2026,Nashik,Theft
+2026,Nashik,Assault
+2026,Nashik,Kidnapping
+2026,Nashik,Cyber Crime
+2026,Nashik,Drug Trafficking
+2026,Nashik,Domestic Violence
+2026,Nashik,Robbery
+2026,Faridabad,Murder
+2026,Faridabad,Theft
+2026,Faridabad,Assault
+2026,Faridabad,Kidnapping
+2026,Faridabad,Cyber Crime
+2026,Faridabad,Drug Trafficking
+2026,Faridabad,Domestic Violence
+2026,Faridabad,Robbery
+2026,Meerut,Murder
+2026,Meerut,Theft
+2026,Meerut,Assault
+2026,Meerut,Kidnapping
+2026,Meerut,Cyber Crime
+2026,Meerut,Drug Trafficking
+2026,Meerut,Domestic Violence
+2026,Meerut,Robbery
+2026,Rajkot,Murder
+2026,Rajkot,Theft
+2026,Rajkot,Assault
+2026,Rajkot,Kidnapping
+2026,Rajkot,Cyber Crime
+2026,Rajkot,Drug Trafficking
+2026,Rajkot,Domestic Violence
+2026,Rajkot,Robbery
+2026,Varanasi,Murder
+2026,Varanasi,Theft
+2026,Varanasi,Assault
+2026,Varanasi,Kidnapping
+2026,Varanasi,Cyber Crime
+2026,Varanasi,Drug Trafficking
+2026,Varanasi,Domestic Violence
+2026,Varanasi,Robbery
+2026,Srinagar,Murder
+2026,Srinagar,Theft
+2026,Srinagar,Assault
+2026,Srinagar,Kidnapping
+2026,Srinagar,Cyber Crime
+2026,Srinagar,Drug Trafficking
+2026,Srinagar,Domestic Violence
+2026,Srinagar,Robbery
+2026,Ranchi,Murder
+2026,Ranchi,Theft
+2026,Ranchi,Assault
+2026,Ranchi,Kidnapping
+2026,Ranchi,Cyber Crime
+2026,Ranchi,Drug Trafficking
+2026,Ranchi,Domestic Violence
+2026,Ranchi,Robbery
+2026,Amritsar,Murder
+2026,Amritsar,Theft
+2026,Amritsar,Assault
+2026,Amritsar,Kidnapping
+2026,Amritsar,Cyber Crime
+2026,Amritsar,Drug Trafficking
+2026,Amritsar,Domestic Violence
+2026,Amritsar,Robbery
+2026,Guwahati,Murder
+2026,Guwahati,Theft
+2026,Guwahati,Assault
+2026,Guwahati,Kidnapping
+2026,Guwahati,Cyber Crime
+2026,Guwahati,Drug Trafficking
+2026,Guwahati,Domestic Violence
+2026,Guwahati,Robbery
+2026,Jodhpur,Murder
+2026,Jodhpur,Theft
+2026,Jodhpur,Assault
+2026,Jodhpur,Kidnapping
+2026,Jodhpur,Cyber Crime
+2026,Jodhpur,Drug Trafficking
+2026,Jodhpur,Domestic Violence
+2026,Jodhpur,Robbery
+2026,Coimbatore,Murder
+2026,Coimbatore,Theft
+2026,Coimbatore,Assault
+2026,Coimbatore,Kidnapping
+2026,Coimbatore,Cyber Crime
+2026,Coimbatore,Drug Trafficking
+2026,Coimbatore,Domestic Violence
+2026,Coimbatore,Robbery
+2026,Vijayawada,Murder
+2026,Vijayawada,Theft
+2026,Vijayawada,Assault
+2026,Vijayawada,Kidnapping
+2026,Vijayawada,Cyber Crime
+2026,Vijayawada,Drug Trafficking
+2026,Vijayawada,Domestic Violence
+2026,Vijayawada,Robbery
+2026,Chandigarh,Murder
+2026,Chandigarh,Theft
+2026,Chandigarh,Assault
+2026,Chandigarh,Kidnapping
+2026,Chandigarh,Cyber Crime
+2026,Chandigarh,Drug Trafficking
+2026,Chandigarh,Domestic Violence
+2026,Chandigarh,Robbery
+2026,Madurai,Murder
+2026,Madurai,Theft
+2026,Madurai,Assault
+2026,Madurai,Kidnapping
+2026,Madurai,Cyber Crime
+2026,Madurai,Drug Trafficking
+2026,Madurai,Domestic Violence
+2026,Madurai,Robbery
+2027,Delhi,Murder
+2027,Delhi,Theft
+2027,Delhi,Assault
+2027,Delhi,Kidnapping
+2027,Delhi,Cyber Crime
+2027,Delhi,Drug Trafficking
+2027,Delhi,Domestic Violence
+2027,Delhi,Robbery
+2027,Mumbai,Murder
+2027,Mumbai,Theft
+2027,Mumbai,Assault
+2027,Mumbai,Kidnapping
+2027,Mumbai,Cyber Crime
+2027,Mumbai,Drug Trafficking
+2027,Mumbai,Domestic Violence
+2027,Mumbai,Robbery
+2027,Bengaluru,Murder
+2027,Bengaluru,Theft
+2027,Bengaluru,Assault
+2027,Bengaluru,Kidnapping
+2027,Bengaluru,Cyber Crime
+2027,Bengaluru,Drug Trafficking
+2027,Bengaluru,Domestic Violence
+2027,Bengaluru,Robbery
+2027,Hyderabad,Murder
+2027,Hyderabad,Theft
+2027,Hyderabad,Assault
+2027,Hyderabad,Kidnapping
+2027,Hyderabad,Cyber Crime
+2027,Hyderabad,Drug Trafficking
+2027,Hyderabad,Domestic Violence
+2027,Hyderabad,Robbery
+2027,Ahmedabad,Murder
+2027,Ahmedabad,Theft
+2027,Ahmedabad,Assault
+2027,Ahmedabad,Kidnapping
+2027,Ahmedabad,Cyber Crime
+2027,Ahmedabad,Drug Trafficking
+2027,Ahmedabad,Domestic Violence
+2027,Ahmedabad,Robbery
+2027,Chennai,Murder
+2027,Chennai,Theft
+2027,Chennai,Assault
+2027,Chennai,Kidnapping
+2027,Chennai,Cyber Crime
+2027,Chennai,Drug Trafficking
+2027,Chennai,Domestic Violence
+2027,Chennai,Robbery
+2027,Kolkata,Murder
+2027,Kolkata,Theft
+2027,Kolkata,Assault
+2027,Kolkata,Kidnapping
+2027,Kolkata,Cyber Crime
+2027,Kolkata,Drug Trafficking
+2027,Kolkata,Domestic Violence
+2027,Kolkata,Robbery
+2027,Pune,Murder
+2027,Pune,Theft
+2027,Pune,Assault
+2027,Pune,Kidnapping
+2027,Pune,Cyber Crime
+2027,Pune,Drug Trafficking
+2027,Pune,Domestic Violence
+2027,Pune,Robbery
+2027,Jaipur,Murder
+2027,Jaipur,Theft
+2027,Jaipur,Assault
+2027,Jaipur,Kidnapping
+2027,Jaipur,Cyber Crime
+2027,Jaipur,Drug Trafficking
+2027,Jaipur,Domestic Violence
+2027,Jaipur,Robbery
+2027,Lucknow,Murder
+2027,Lucknow,Theft
+2027,Lucknow,Assault
+2027,Lucknow,Kidnapping
+2027,Lucknow,Cyber Crime
+2027,Lucknow,Drug Trafficking
+2027,Lucknow,Domestic Violence
+2027,Lucknow,Robbery
+2027,Nagpur,Murder
+2027,Nagpur,Theft
+2027,Nagpur,Assault
+2027,Nagpur,Kidnapping
+2027,Nagpur,Cyber Crime
+2027,Nagpur,Drug Trafficking
+2027,Nagpur,Domestic Violence
+2027,Nagpur,Robbery
+2027,Indore,Murder
+2027,Indore,Theft
+2027,Indore,Assault
+2027,Indore,Kidnapping
+2027,Indore,Cyber Crime
+2027,Indore,Drug Trafficking
+2027,Indore,Domestic Violence
+2027,Indore,Robbery
+2027,Bhopal,Murder
+2027,Bhopal,Theft
+2027,Bhopal,Assault
+2027,Bhopal,Kidnapping
+2027,Bhopal,Cyber Crime
+2027,Bhopal,Drug Trafficking
+2027,Bhopal,Domestic Violence
+2027,Bhopal,Robbery
+2027,Patna,Murder
+2027,Patna,Theft
+2027,Patna,Assault
+2027,Patna,Kidnapping
+2027,Patna,Cyber Crime
+2027,Patna,Drug Trafficking
+2027,Patna,Domestic Violence
+2027,Patna,Robbery
+2027,Ludhiana,Murder
+2027,Ludhiana,Theft
+2027,Ludhiana,Assault
+2027,Ludhiana,Kidnapping
+2027,Ludhiana,Cyber Crime
+2027,Ludhiana,Drug Trafficking
+2027,Ludhiana,Domestic Violence
+2027,Ludhiana,Robbery
+2027,Agra,Murder
+2027,Agra,Theft
+2027,Agra,Assault
+2027,Agra,Kidnapping
+2027,Agra,Cyber Crime
+2027,Agra,Drug Trafficking
+2027,Agra,Domestic Violence
+2027,Agra,Robbery
+2027,Nashik,Murder
+2027,Nashik,Theft
+2027,Nashik,Assault
+2027,Nashik,Kidnapping
+2027,Nashik,Cyber Crime
+2027,Nashik,Drug Trafficking
+2027,Nashik,Domestic Violence
+2027,Nashik,Robbery
+2027,Faridabad,Murder
+2027,Faridabad,Theft
+2027,Faridabad,Assault
+2027,Faridabad,Kidnapping
+2027,Faridabad,Cyber Crime
+2027,Faridabad,Drug Trafficking
+2027,Faridabad,Domestic Violence
+2027,Faridabad,Robbery
+2027,Meerut,Murder
+2027,Meerut,Theft
+2027,Meerut,Assault
+2027,Meerut,Kidnapping
+2027,Meerut,Cyber Crime
+2027,Meerut,Drug Trafficking
+2027,Meerut,Domestic Violence
+2027,Meerut,Robbery
+2027,Rajkot,Murder
+2027,Rajkot,Theft
+2027,Rajkot,Assault
+2027,Rajkot,Kidnapping
+2027,Rajkot,Cyber Crime
+2027,Rajkot,Drug Trafficking
+2027,Rajkot,Domestic Violence
+2027,Rajkot,Robbery
+2027,Varanasi,Murder
+2027,Varanasi,Theft
+2027,Varanasi,Assault
+2027,Varanasi,Kidnapping
+2027,Varanasi,Cyber Crime
+2027,Varanasi,Drug Trafficking
+2027,Varanasi,Domestic Violence
+2027,Varanasi,Robbery
+2027,Srinagar,Murder
+2027,Srinagar,Theft
+2027,Srinagar,Assault
+2027,Srinagar,Kidnapping
+2027,Srinagar,Cyber Crime
+2027,Srinagar,Drug Trafficking
+2027,Srinagar,Domestic Violence
+2027,Srinagar,Robbery
+2027,Ranchi,Murder
+2027,Ranchi,Theft
+2027,Ranchi,Assault
+2027,Ranchi,Kidnapping
+2027,Ranchi,Cyber Crime
+2027,Ranchi,Drug Trafficking
+2027,Ranchi,Domestic Violence
+2027,Ranchi,Robbery
+2027,Amritsar,Murder
+2027,Amritsar,Theft
+2027,Amritsar,Assault
+2027,Amritsar,Kidnapping
+2027,Amritsar,Cyber Crime
+2027,Amritsar,Drug Trafficking
+2027,Amritsar,Domestic Violence
+2027,Amritsar,Robbery
+2027,Guwahati,Murder
+2027,Guwahati,Theft
+2027,Guwahati,Assault
+2027,Guwahati,Kidnapping
+2027,Guwahati,Cyber Crime
+2027,Guwahati,Drug Trafficking
+2027,Guwahati,Domestic Violence
+2027,Guwahati,Robbery
+2027,Jodhpur,Murder
+2027,Jodhpur,Theft
+2027,Jodhpur,Assault
+2027,Jodhpur,Kidnapping
+2027,Jodhpur,Cyber Crime
+2027,Jodhpur,Drug Trafficking
+2027,Jodhpur,Domestic Violence
+2027,Jodhpur,Robbery
+2027,Coimbatore,Murder
+2027,Coimbatore,Theft
+2027,Coimbatore,Assault
+2027,Coimbatore,Kidnapping
+2027,Coimbatore,Cyber Crime
+2027,Coimbatore,Drug Trafficking
+2027,Coimbatore,Domestic Violence
+2027,Coimbatore,Robbery
+2027,Vijayawada,Murder
+2027,Vijayawada,Theft
+2027,Vijayawada,Assault
+2027,Vijayawada,Kidnapping
+2027,Vijayawada,Cyber Crime
+2027,Vijayawada,Drug Trafficking
+2027,Vijayawada,Domestic Violence
+2027,Vijayawada,Robbery
+2027,Chandigarh,Murder
+2027,Chandigarh,Theft
+2027,Chandigarh,Assault
+2027,Chandigarh,Kidnapping
+2027,Chandigarh,Cyber Crime
+2027,Chandigarh,Drug Trafficking
+2027,Chandigarh,Domestic Violence
+2027,Chandigarh,Robbery
+2027,Madurai,Murder
+2027,Madurai,Theft
+2027,Madurai,Assault
+2027,Madurai,Kidnapping
+2027,Madurai,Cyber Crime
+2027,Madurai,Drug Trafficking
+2027,Madurai,Domestic Violence
+2027,Madurai,Robbery
+2028,Delhi,Murder
+2028,Delhi,Theft
+2028,Delhi,Assault
+2028,Delhi,Kidnapping
+2028,Delhi,Cyber Crime
+2028,Delhi,Drug Trafficking
+2028,Delhi,Domestic Violence
+2028,Delhi,Robbery
+2028,Mumbai,Murder
+2028,Mumbai,Theft
+2028,Mumbai,Assault
+2028,Mumbai,Kidnapping
+2028,Mumbai,Cyber Crime
+2028,Mumbai,Drug Trafficking
+2028,Mumbai,Domestic Violence
+2028,Mumbai,Robbery
+2028,Bengaluru,Murder
+2028,Bengaluru,Theft
+2028,Bengaluru,Assault
+2028,Bengaluru,Kidnapping
+2028,Bengaluru,Cyber Crime
+2028,Bengaluru,Drug Trafficking
+2028,Bengaluru,Domestic Violence
+2028,Bengaluru,Robbery
+2028,Hyderabad,Murder
+2028,Hyderabad,Theft
+2028,Hyderabad,Assault
+2028,Hyderabad,Kidnapping
+2028,Hyderabad,Cyber Crime
+2028,Hyderabad,Drug Trafficking
+2028,Hyderabad,Domestic Violence
+2028,Hyderabad,Robbery
+2028,Ahmedabad,Murder
+2028,Ahmedabad,Theft
+2028,Ahmedabad,Assault
+2028,Ahmedabad,Kidnapping
+2028,Ahmedabad,Cyber Crime
+2028,Ahmedabad,Drug Trafficking
+2028,Ahmedabad,Domestic Violence
+2028,Ahmedabad,Robbery
+2028,Chennai,Murder
+2028,Chennai,Theft
+2028,Chennai,Assault
+2028,Chennai,Kidnapping
+2028,Chennai,Cyber Crime
+2028,Chennai,Drug Trafficking
+2028,Chennai,Domestic Violence
+2028,Chennai,Robbery
+2028,Kolkata,Murder
+2028,Kolkata,Theft
+2028,Kolkata,Assault
+2028,Kolkata,Kidnapping
+2028,Kolkata,Cyber Crime
+2028,Kolkata,Drug Trafficking
+2028,Kolkata,Domestic Violence
+2028,Kolkata,Robbery
+2028,Pune,Murder
+2028,Pune,Theft
+2028,Pune,Assault
+2028,Pune,Kidnapping
+2028,Pune,Cyber Crime
+2028,Pune,Drug Trafficking
+2028,Pune,Domestic Violence
+2028,Pune,Robbery
+2028,Jaipur,Murder
+2028,Jaipur,Theft
+2028,Jaipur,Assault
+2028,Jaipur,Kidnapping
+2028,Jaipur,Cyber Crime
+2028,Jaipur,Drug Trafficking
+2028,Jaipur,Domestic Violence
+2028,Jaipur,Robbery
+2028,Lucknow,Murder
+2028,Lucknow,Theft
+2028,Lucknow,Assault
+2028,Lucknow,Kidnapping
+2028,Lucknow,Cyber Crime
+2028,Lucknow,Drug Trafficking
+2028,Lucknow,Domestic Violence
+2028,Lucknow,Robbery
+2028,Nagpur,Murder
+2028,Nagpur,Theft
+2028,Nagpur,Assault
+2028,Nagpur,Kidnapping
+2028,Nagpur,Cyber Crime
+2028,Nagpur,Drug Trafficking
+2028,Nagpur,Domestic Violence
+2028,Nagpur,Robbery
+2028,Indore,Murder
+2028,Indore,Theft
+2028,Indore,Assault
+2028,Indore,Kidnapping
+2028,Indore,Cyber Crime
+2028,Indore,Drug Trafficking
+2028,Indore,Domestic Violence
+2028,Indore,Robbery
+2028,Bhopal,Murder
+2028,Bhopal,Theft
+2028,Bhopal,Assault
+2028,Bhopal,Kidnapping
+2028,Bhopal,Cyber Crime
+2028,Bhopal,Drug Trafficking
+2028,Bhopal,Domestic Violence
+2028,Bhopal,Robbery
+2028,Patna,Murder
+2028,Patna,Theft
+2028,Patna,Assault
+2028,Patna,Kidnapping
+2028,Patna,Cyber Crime
+2028,Patna,Drug Trafficking
+2028,Patna,Domestic Violence
+2028,Patna,Robbery
+2028,Ludhiana,Murder
+2028,Ludhiana,Theft
+2028,Ludhiana,Assault
+2028,Ludhiana,Kidnapping
+2028,Ludhiana,Cyber Crime
+2028,Ludhiana,Drug Trafficking
+2028,Ludhiana,Domestic Violence
+2028,Ludhiana,Robbery
+2028,Agra,Murder
+2028,Agra,Theft
+2028,Agra,Assault
+2028,Agra,Kidnapping
+2028,Agra,Cyber Crime
+2028,Agra,Drug Trafficking
+2028,Agra,Domestic Violence
+2028,Agra,Robbery
+2028,Nashik,Murder
+2028,Nashik,Theft
+2028,Nashik,Assault
+2028,Nashik,Kidnapping
+2028,Nashik,Cyber Crime
+2028,Nashik,Drug Trafficking
+2028,Nashik,Domestic Violence
+2028,Nashik,Robbery
+2028,Faridabad,Murder
+2028,Faridabad,Theft
+2028,Faridabad,Assault
+2028,Faridabad,Kidnapping
+2028,Faridabad,Cyber Crime
+2028,Faridabad,Drug Trafficking
+2028,Faridabad,Domestic Violence
+2028,Faridabad,Robbery
+2028,Meerut,Murder
+2028,Meerut,Theft
+2028,Meerut,Assault
+2028,Meerut,Kidnapping
+2028,Meerut,Cyber Crime
+2028,Meerut,Drug Trafficking
+2028,Meerut,Domestic Violence
+2028,Meerut,Robbery
+2028,Rajkot,Murder
+2028,Rajkot,Theft
+2028,Rajkot,Assault
+2028,Rajkot,Kidnapping
+2028,Rajkot,Cyber Crime
+2028,Rajkot,Drug Trafficking
+2028,Rajkot,Domestic Violence
+2028,Rajkot,Robbery
+2028,Varanasi,Murder
+2028,Varanasi,Theft
+2028,Varanasi,Assault
+2028,Varanasi,Kidnapping
+2028,Varanasi,Cyber Crime
+2028,Varanasi,Drug Trafficking
+2028,Varanasi,Domestic Violence
+2028,Varanasi,Robbery
+2028,Srinagar,Murder
+2028,Srinagar,Theft
+2028,Srinagar,Assault
+2028,Srinagar,Kidnapping
+2028,Srinagar,Cyber Crime
+2028,Srinagar,Drug Trafficking
+2028,Srinagar,Domestic Violence
+2028,Srinagar,Robbery
+2028,Ranchi,Murder
+2028,Ranchi,Theft
+2028,Ranchi,Assault
+2028,Ranchi,Kidnapping
+2028,Ranchi,Cyber Crime
+2028,Ranchi,Drug Trafficking
+2028,Ranchi,Domestic Violence
+2028,Ranchi,Robbery
+2028,Amritsar,Murder
+2028,Amritsar,Theft
+2028,Amritsar,Assault
+2028,Amritsar,Kidnapping
+2028,Amritsar,Cyber Crime
+2028,Amritsar,Drug Trafficking
+2028,Amritsar,Domestic Violence
+2028,Amritsar,Robbery
+2028,Guwahati,Murder
+2028,Guwahati,Theft
+2028,Guwahati,Assault
+2028,Guwahati,Kidnapping
+2028,Guwahati,Cyber Crime
+2028,Guwahati,Drug Trafficking
+2028,Guwahati,Domestic Violence
+2028,Guwahati,Robbery
+2028,Jodhpur,Murder
+2028,Jodhpur,Theft
+2028,Jodhpur,Assault
+2028,Jodhpur,Kidnapping
+2028,Jodhpur,Cyber Crime
+2028,Jodhpur,Drug Trafficking
+2028,Jodhpur,Domestic Violence
+2028,Jodhpur,Robbery
+2028,Coimbatore,Murder
+2028,Coimbatore,Theft
+2028,Coimbatore,Assault
+2028,Coimbatore,Kidnapping
+2028,Coimbatore,Cyber Crime
+2028,Coimbatore,Drug Trafficking
+2028,Coimbatore,Domestic Violence
+2028,Coimbatore,Robbery
+2028,Vijayawada,Murder
+2028,Vijayawada,Theft
+2028,Vijayawada,Assault
+2028,Vijayawada,Kidnapping
+2028,Vijayawada,Cyber Crime
+2028,Vijayawada,Drug Trafficking
+2028,Vijayawada,Domestic Violence
+2028,Vijayawada,Robbery
+2028,Chandigarh,Murder
+2028,Chandigarh,Theft
+2028,Chandigarh,Assault
+2028,Chandigarh,Kidnapping
+2028,Chandigarh,Cyber Crime
+2028,Chandigarh,Drug Trafficking
+2028,Chandigarh,Domestic Violence
+2028,Chandigarh,Robbery
+2028,Madurai,Murder
+2028,Madurai,Theft
+2028,Madurai,Assault
+2028,Madurai,Kidnapping
+2028,Madurai,Cyber Crime
+2028,Madurai,Drug Trafficking
+2028,Madurai,Domestic Violence
+2028,Madurai,Robbery
+2029,Delhi,Murder
+2029,Delhi,Theft
+2029,Delhi,Assault
+2029,Delhi,Kidnapping
+2029,Delhi,Cyber Crime
+2029,Delhi,Drug Trafficking
+2029,Delhi,Domestic Violence
+2029,Delhi,Robbery
+2029,Mumbai,Murder
+2029,Mumbai,Theft
+2029,Mumbai,Assault
+2029,Mumbai,Kidnapping
+2029,Mumbai,Cyber Crime
+2029,Mumbai,Drug Trafficking
+2029,Mumbai,Domestic Violence
+2029,Mumbai,Robbery
+2029,Bengaluru,Murder
+2029,Bengaluru,Theft
+2029,Bengaluru,Assault
+2029,Bengaluru,Kidnapping
+2029,Bengaluru,Cyber Crime
+2029,Bengaluru,Drug Trafficking
+2029,Bengaluru,Domestic Violence
+2029,Bengaluru,Robbery
+2029,Hyderabad,Murder
+2029,Hyderabad,Theft
+2029,Hyderabad,Assault
+2029,Hyderabad,Kidnapping
+2029,Hyderabad,Cyber Crime
+2029,Hyderabad,Drug Trafficking
+2029,Hyderabad,Domestic Violence
+2029,Hyderabad,Robbery
+2029,Ahmedabad,Murder
+2029,Ahmedabad,Theft
+2029,Ahmedabad,Assault
+2029,Ahmedabad,Kidnapping
+2029,Ahmedabad,Cyber Crime
+2029,Ahmedabad,Drug Trafficking
+2029,Ahmedabad,Domestic Violence
+2029,Ahmedabad,Robbery
+2029,Chennai,Murder
+2029,Chennai,Theft
+2029,Chennai,Assault
+2029,Chennai,Kidnapping
+2029,Chennai,Cyber Crime
+2029,Chennai,Drug Trafficking
+2029,Chennai,Domestic Violence
+2029,Chennai,Robbery
+2029,Kolkata,Murder
+2029,Kolkata,Theft
+2029,Kolkata,Assault
+2029,Kolkata,Kidnapping
+2029,Kolkata,Cyber Crime
+2029,Kolkata,Drug Trafficking
+2029,Kolkata,Domestic Violence
+2029,Kolkata,Robbery
+2029,Pune,Murder
+2029,Pune,Theft
+2029,Pune,Assault
+2029,Pune,Kidnapping
+2029,Pune,Cyber Crime
+2029,Pune,Drug Trafficking
+2029,Pune,Domestic Violence
+2029,Pune,Robbery
+2029,Jaipur,Murder
+2029,Jaipur,Theft
+2029,Jaipur,Assault
+2029,Jaipur,Kidnapping
+2029,Jaipur,Cyber Crime
+2029,Jaipur,Drug Trafficking
+2029,Jaipur,Domestic Violence
+2029,Jaipur,Robbery
+2029,Lucknow,Murder
+2029,Lucknow,Theft
+2029,Lucknow,Assault
+2029,Lucknow,Kidnapping
+2029,Lucknow,Cyber Crime
+2029,Lucknow,Drug Trafficking
+2029,Lucknow,Domestic Violence
+2029,Lucknow,Robbery
+2029,Nagpur,Murder
+2029,Nagpur,Theft
+2029,Nagpur,Assault
+2029,Nagpur,Kidnapping
+2029,Nagpur,Cyber Crime
+2029,Nagpur,Drug Trafficking
+2029,Nagpur,Domestic Violence
+2029,Nagpur,Robbery
+2029,Indore,Murder
+2029,Indore,Theft
+2029,Indore,Assault
+2029,Indore,Kidnapping
+2029,Indore,Cyber Crime
+2029,Indore,Drug Trafficking
+2029,Indore,Domestic Violence
+2029,Indore,Robbery
+2029,Bhopal,Murder
+2029,Bhopal,Theft
+2029,Bhopal,Assault
+2029,Bhopal,Kidnapping
+2029,Bhopal,Cyber Crime
+2029,Bhopal,Drug Trafficking
+2029,Bhopal,Domestic Violence
+2029,Bhopal,Robbery
+2029,Patna,Murder
+2029,Patna,Theft
+2029,Patna,Assault
+2029,Patna,Kidnapping
+2029,Patna,Cyber Crime
+2029,Patna,Drug Trafficking
+2029,Patna,Domestic Violence
+2029,Patna,Robbery
+2029,Ludhiana,Murder
+2029,Ludhiana,Theft
+2029,Ludhiana,Assault
+2029,Ludhiana,Kidnapping
+2029,Ludhiana,Cyber Crime
+2029,Ludhiana,Drug Trafficking
+2029,Ludhiana,Domestic Violence
+2029,Ludhiana,Robbery
+2029,Agra,Murder
+2029,Agra,Theft
+2029,Agra,Assault
+2029,Agra,Kidnapping
+2029,Agra,Cyber Crime
+2029,Agra,Drug Trafficking
+2029,Agra,Domestic Violence
+2029,Agra,Robbery
+2029,Nashik,Murder
+2029,Nashik,Theft
+2029,Nashik,Assault
+2029,Nashik,Kidnapping
+2029,Nashik,Cyber Crime
+2029,Nashik,Drug Trafficking
+2029,Nashik,Domestic Violence
+2029,Nashik,Robbery
+2029,Faridabad,Murder
+2029,Faridabad,Theft
+2029,Faridabad,Assault
+2029,Faridabad,Kidnapping
+2029,Faridabad,Cyber Crime
+2029,Faridabad,Drug Trafficking
+2029,Faridabad,Domestic Violence
+2029,Faridabad,Robbery
+2029,Meerut,Murder
+2029,Meerut,Theft
+2029,Meerut,Assault
+2029,Meerut,Kidnapping
+2029,Meerut,Cyber Crime
+2029,Meerut,Drug Trafficking
+2029,Meerut,Domestic Violence
+2029,Meerut,Robbery
+2029,Rajkot,Murder
+2029,Rajkot,Theft
+2029,Rajkot,Assault
+2029,Rajkot,Kidnapping
+2029,Rajkot,Cyber Crime
+2029,Rajkot,Drug Trafficking
+2029,Rajkot,Domestic Violence
+2029,Rajkot,Robbery
+2029,Varanasi,Murder
+2029,Varanasi,Theft
+2029,Varanasi,Assault
+2029,Varanasi,Kidnapping
+2029,Varanasi,Cyber Crime
+2029,Varanasi,Drug Trafficking
+2029,Varanasi,Domestic Violence
+2029,Varanasi,Robbery
+2029,Srinagar,Murder
+2029,Srinagar,Theft
+2029,Srinagar,Assault
+2029,Srinagar,Kidnapping
+2029,Srinagar,Cyber Crime
+2029,Srinagar,Drug Trafficking
+2029,Srinagar,Domestic Violence
+2029,Srinagar,Robbery
+2029,Ranchi,Murder
+2029,Ranchi,Theft
+2029,Ranchi,Assault
+2029,Ranchi,Kidnapping
+2029,Ranchi,Cyber Crime
+2029,Ranchi,Drug Trafficking
+2029,Ranchi,Domestic Violence
+2029,Ranchi,Robbery
+2029,Amritsar,Murder
+2029,Amritsar,Theft
+2029,Amritsar,Assault
+2029,Amritsar,Kidnapping
+2029,Amritsar,Cyber Crime
+2029,Amritsar,Drug Trafficking
+2029,Amritsar,Domestic Violence
+2029,Amritsar,Robbery
+2029,Guwahati,Murder
+2029,Guwahati,Theft
+2029,Guwahati,Assault
+2029,Guwahati,Kidnapping
+2029,Guwahati,Cyber Crime
+2029,Guwahati,Drug Trafficking
+2029,Guwahati,Domestic Violence
+2029,Guwahati,Robbery
+2029,Jodhpur,Murder
+2029,Jodhpur,Theft
+2029,Jodhpur,Assault
+2029,Jodhpur,Kidnapping
+2029,Jodhpur,Cyber Crime
+2029,Jodhpur,Drug Trafficking
+2029,Jodhpur,Domestic Violence
+2029,Jodhpur,Robbery
+2029,Coimbatore,Murder
+2029,Coimbatore,Theft
+2029,Coimbatore,Assault
+2029,Coimbatore,Kidnapping
+2029,Coimbatore,Cyber Crime
+2029,Coimbatore,Drug Trafficking
+2029,Coimbatore,Domestic Violence
+2029,Coimbatore,Robbery
+2029,Vijayawada,Murder
+2029,Vijayawada,Theft
+2029,Vijayawada,Assault
+2029,Vijayawada,Kidnapping
+2029,Vijayawada,Cyber Crime
+2029,Vijayawada,Drug Trafficking
+2029,Vijayawada,Domestic Violence
+2029,Vijayawada,Robbery
+2029,Chandigarh,Murder
+2029,Chandigarh,Theft
+2029,Chandigarh,Assault
+2029,Chandigarh,Kidnapping
+2029,Chandigarh,Cyber Crime
+2029,Chandigarh,Drug Trafficking
+2029,Chandigarh,Domestic Violence
+2029,Chandigarh,Robbery
+2029,Madurai,Murder
+2029,Madurai,Theft
+2029,Madurai,Assault
+2029,Madurai,Kidnapping
+2029,Madurai,Cyber Crime
+2029,Madurai,Drug Trafficking
+2029,Madurai,Domestic Violence
+2029,Madurai,Robbery
+2030,Delhi,Murder
+2030,Delhi,Theft
+2030,Delhi,Assault
+2030,Delhi,Kidnapping
+2030,Delhi,Cyber Crime
+2030,Delhi,Drug Trafficking
+2030,Delhi,Domestic Violence
+2030,Delhi,Robbery
+2030,Mumbai,Murder
+2030,Mumbai,Theft
+2030,Mumbai,Assault
+2030,Mumbai,Kidnapping
+2030,Mumbai,Cyber Crime
+2030,Mumbai,Drug Trafficking
+2030,Mumbai,Domestic Violence
+2030,Mumbai,Robbery
+2030,Bengaluru,Murder
+2030,Bengaluru,Theft
+2030,Bengaluru,Assault
+2030,Bengaluru,Kidnapping
+2030,Bengaluru,Cyber Crime
+2030,Bengaluru,Drug Trafficking
+2030,Bengaluru,Domestic Violence
+2030,Bengaluru,Robbery
+2030,Hyderabad,Murder
+2030,Hyderabad,Theft
+2030,Hyderabad,Assault
+2030,Hyderabad,Kidnapping
+2030,Hyderabad,Cyber Crime
+2030,Hyderabad,Drug Trafficking
+2030,Hyderabad,Domestic Violence
+2030,Hyderabad,Robbery
+2030,Ahmedabad,Murder
+2030,Ahmedabad,Theft
+2030,Ahmedabad,Assault
+2030,Ahmedabad,Kidnapping
+2030,Ahmedabad,Cyber Crime
+2030,Ahmedabad,Drug Trafficking
+2030,Ahmedabad,Domestic Violence
+2030,Ahmedabad,Robbery
+2030,Chennai,Murder
+2030,Chennai,Theft
+2030,Chennai,Assault
+2030,Chennai,Kidnapping
+2030,Chennai,Cyber Crime
+2030,Chennai,Drug Trafficking
+2030,Chennai,Domestic Violence
+2030,Chennai,Robbery
+2030,Kolkata,Murder
+2030,Kolkata,Theft
+2030,Kolkata,Assault
+2030,Kolkata,Kidnapping
+2030,Kolkata,Cyber Crime
+2030,Kolkata,Drug Trafficking
+2030,Kolkata,Domestic Violence
+2030,Kolkata,Robbery
+2030,Pune,Murder
+2030,Pune,Theft
+2030,Pune,Assault
+2030,Pune,Kidnapping
+2030,Pune,Cyber Crime
+2030,Pune,Drug Trafficking
+2030,Pune,Domestic Violence
+2030,Pune,Robbery
+2030,Jaipur,Murder
+2030,Jaipur,Theft
+2030,Jaipur,Assault
+2030,Jaipur,Kidnapping
+2030,Jaipur,Cyber Crime
+2030,Jaipur,Drug Trafficking
+2030,Jaipur,Domestic Violence
+2030,Jaipur,Robbery
+2030,Lucknow,Murder
+2030,Lucknow,Theft
+2030,Lucknow,Assault
+2030,Lucknow,Kidnapping
+2030,Lucknow,Cyber Crime
+2030,Lucknow,Drug Trafficking
+2030,Lucknow,Domestic Violence
+2030,Lucknow,Robbery
+2030,Nagpur,Murder
+2030,Nagpur,Theft
+2030,Nagpur,Assault
+2030,Nagpur,Kidnapping
+2030,Nagpur,Cyber Crime
+2030,Nagpur,Drug Trafficking
+2030,Nagpur,Domestic Violence
+2030,Nagpur,Robbery
+2030,Indore,Murder
+2030,Indore,Theft
+2030,Indore,Assault
+2030,Indore,Kidnapping
+2030,Indore,Cyber Crime
+2030,Indore,Drug Trafficking
+2030,Indore,Domestic Violence
+2030,Indore,Robbery
+2030,Bhopal,Murder
+2030,Bhopal,Theft
+2030,Bhopal,Assault
+2030,Bhopal,Kidnapping
+2030,Bhopal,Cyber Crime
+2030,Bhopal,Drug Trafficking
+2030,Bhopal,Domestic Violence
+2030,Bhopal,Robbery
+2030,Patna,Murder
+2030,Patna,Theft
+2030,Patna,Assault
+2030,Patna,Kidnapping
+2030,Patna,Cyber Crime
+2030,Patna,Drug Trafficking
+2030,Patna,Domestic Violence
+2030,Patna,Robbery
+2030,Ludhiana,Murder
+2030,Ludhiana,Theft
+2030,Ludhiana,Assault
+2030,Ludhiana,Kidnapping
+2030,Ludhiana,Cyber Crime
+2030,Ludhiana,Drug Trafficking
+2030,Ludhiana,Domestic Violence
+2030,Ludhiana,Robbery
+2030,Agra,Murder
+2030,Agra,Theft
+2030,Agra,Assault
+2030,Agra,Kidnapping
+2030,Agra,Cyber Crime
+2030,Agra,Drug Trafficking
+2030,Agra,Domestic Violence
+2030,Agra,Robbery
+2030,Nashik,Murder
+2030,Nashik,Theft
+2030,Nashik,Assault
+2030,Nashik,Kidnapping
+2030,Nashik,Cyber Crime
+2030,Nashik,Drug Trafficking
+2030,Nashik,Domestic Violence
+2030,Nashik,Robbery
+2030,Faridabad,Murder
+2030,Faridabad,Theft
+2030,Faridabad,Assault
+2030,Faridabad,Kidnapping
+2030,Faridabad,Cyber Crime
+2030,Faridabad,Drug Trafficking
+2030,Faridabad,Domestic Violence
+2030,Faridabad,Robbery
+2030,Meerut,Murder
+2030,Meerut,Theft
+2030,Meerut,Assault
+2030,Meerut,Kidnapping
+2030,Meerut,Cyber Crime
+2030,Meerut,Drug Trafficking
+2030,Meerut,Domestic Violence
+2030,Meerut,Robbery
+2030,Rajkot,Murder
+2030,Rajkot,Theft
+2030,Rajkot,Assault
+2030,Rajkot,Kidnapping
+2030,Rajkot,Cyber Crime
+2030,Rajkot,Drug Trafficking
+2030,Rajkot,Domestic Violence
+2030,Rajkot,Robbery
+2030,Varanasi,Murder
+2030,Varanasi,Theft
+2030,Varanasi,Assault
+2030,Varanasi,Kidnapping
+2030,Varanasi,Cyber Crime
+2030,Varanasi,Drug Trafficking
+2030,Varanasi,Domestic Violence
+2030,Varanasi,Robbery
+2030,Srinagar,Murder
+2030,Srinagar,Theft
+2030,Srinagar,Assault
+2030,Srinagar,Kidnapping
+2030,Srinagar,Cyber Crime
+2030,Srinagar,Drug Trafficking
+2030,Srinagar,Domestic Violence
+2030,Srinagar,Robbery
+2030,Ranchi,Murder
+2030,Ranchi,Theft
+2030,Ranchi,Assault
+2030,Ranchi,Kidnapping
+2030,Ranchi,Cyber Crime
+2030,Ranchi,Drug Trafficking
+2030,Ranchi,Domestic Violence
+2030,Ranchi,Robbery
+2030,Amritsar,Murder
+2030,Amritsar,Theft
+2030,Amritsar,Assault
+2030,Amritsar,Kidnapping
+2030,Amritsar,Cyber Crime
+2030,Amritsar,Drug Trafficking
+2030,Amritsar,Domestic Violence
+2030,Amritsar,Robbery
+2030,Guwahati,Murder
+2030,Guwahati,Theft
+2030,Guwahati,Assault
+2030,Guwahati,Kidnapping
+2030,Guwahati,Cyber Crime
+2030,Guwahati,Drug Trafficking
+2030,Guwahati,Domestic Violence
+2030,Guwahati,Robbery
+2030,Jodhpur,Murder
+2030,Jodhpur,Theft
+2030,Jodhpur,Assault
+2030,Jodhpur,Kidnapping
+2030,Jodhpur,Cyber Crime
+2030,Jodhpur,Drug Trafficking
+2030,Jodhpur,Domestic Violence
+2030,Jodhpur,Robbery
+2030,Coimbatore,Murder
+2030,Coimbatore,Theft
+2030,Coimbatore,Assault
+2030,Coimbatore,Kidnapping
+2030,Coimbatore,Cyber Crime
+2030,Coimbatore,Drug Trafficking
+2030,Coimbatore,Domestic Violence
+2030,Coimbatore,Robbery
+2030,Vijayawada,Murder
+2030,Vijayawada,Theft
+2030,Vijayawada,Assault
+2030,Vijayawada,Kidnapping
+2030,Vijayawada,Cyber Crime
+2030,Vijayawada,Drug Trafficking
+2030,Vijayawada,Domestic Violence
+2030,Vijayawada,Robbery
+2030,Chandigarh,Murder
+2030,Chandigarh,Theft
+2030,Chandigarh,Assault
+2030,Chandigarh,Kidnapping
+2030,Chandigarh,Cyber Crime
+2030,Chandigarh,Drug Trafficking
+2030,Chandigarh,Domestic Violence
+2030,Chandigarh,Robbery
+2030,Madurai,Murder
+2030,Madurai,Theft
+2030,Madurai,Assault
+2030,Madurai,Kidnapping
+2030,Madurai,Cyber Crime
+2030,Madurai,Drug Trafficking
+2030,Madurai,Domestic Violence
+2030,Madurai,Robbery

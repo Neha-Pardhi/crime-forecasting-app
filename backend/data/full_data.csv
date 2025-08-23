@@ -1,0 +1,2401 @@
+City,Crime_Type,Year,Crime_Count
+Delhi,Murder,2015,1383
+Delhi,Murder,2016,1353
+Delhi,Murder,2017,1393
+Delhi,Murder,2018,1437
+Delhi,Murder,2019,1349
+Delhi,Murder,2020,1355
+Delhi,Murder,2021,1445
+Delhi,Murder,2022,1407
+Delhi,Murder,2023,1339
+Delhi,Murder,2024,1391
+Delhi,Theft,2015,502
+Delhi,Theft,2016,503
+Delhi,Theft,2017,539
+Delhi,Theft,2018,434
+Delhi,Theft,2019,445
+Delhi,Theft,2020,502
+Delhi,Theft,2021,483
+Delhi,Theft,2022,553
+Delhi,Theft,2023,484
+Delhi,Theft,2024,470
+Delhi,Assault,2015,1552
+Delhi,Assault,2016,1468
+Delhi,Assault,2017,1484
+Delhi,Assault,2018,1412
+Delhi,Assault,2019,1454
+Delhi,Assault,2020,1489
+Delhi,Assault,2021,1427
+Delhi,Assault,2022,1504
+Delhi,Assault,2023,1456
+Delhi,Assault,2024,1469
+Delhi,Kidnapping,2015,959
+Delhi,Kidnapping,2016,1084
+Delhi,Kidnapping,2017,991
+Delhi,Kidnapping,2018,941
+Delhi,Kidnapping,2019,1038
+Delhi,Kidnapping,2020,936
+Delhi,Kidnapping,2021,1011
+Delhi,Kidnapping,2022,901
+Delhi,Kidnapping,2023,936
+Delhi,Kidnapping,2024,1004
+Delhi,Cyber Crime,2015,552
+Delhi,Cyber Crime,2016,526
+Delhi,Cyber Crime,2017,513
+Delhi,Cyber Crime,2018,506
+Delhi,Cyber Crime,2019,446
+Delhi,Cyber Crime,2020,485
+Delhi,Cyber Crime,2021,503
+Delhi,Cyber Crime,2022,574
+Delhi,Cyber Crime,2023,541
+Delhi,Cyber Crime,2024,441
+Delhi,Drug Trafficking,2015,1503
+Delhi,Drug Trafficking,2016,1469
+Delhi,Drug Trafficking,2017,1455
+Delhi,Drug Trafficking,2018,1519
+Delhi,Drug Trafficking,2019,1544
+Delhi,Drug Trafficking,2020,1537
+Delhi,Drug Trafficking,2021,1451
+Delhi,Drug Trafficking,2022,1485
+Delhi,Drug Trafficking,2023,1515
+Delhi,Drug Trafficking,2024,1547
+Delhi,Domestic Violence,2015,1428
+Delhi,Domestic Violence,2016,1444
+Delhi,Domestic Violence,2017,1397
+Delhi,Domestic Violence,2018,1397
+Delhi,Domestic Violence,2019,1499
+Delhi,Domestic Violence,2020,1525
+Delhi,Domestic Violence,2021,1451
+Delhi,Domestic Violence,2022,1515
+Delhi,Domestic Violence,2023,1480
+Delhi,Domestic Violence,2024,1433
+Delhi,Robbery,2015,503
+Delhi,Robbery,2016,562
+Delhi,Robbery,2017,486
+Delhi,Robbery,2018,566
+Delhi,Robbery,2019,357
+Delhi,Robbery,2020,530
+Delhi,Robbery,2021,497
+Delhi,Robbery,2022,476
+Delhi,Robbery,2023,500
+Delhi,Robbery,2024,402
+Mumbai,Murder,2015,856
+Mumbai,Murder,2016,886
+Mumbai,Murder,2017,942
+Mumbai,Murder,2018,844
+Mumbai,Murder,2019,833
+Mumbai,Murder,2020,850
+Mumbai,Murder,2021,917
+Mumbai,Murder,2022,888
+Mumbai,Murder,2023,852
+Mumbai,Murder,2024,905
+Mumbai,Theft,2015,842
+Mumbai,Theft,2016,888
+Mumbai,Theft,2017,805
+Mumbai,Theft,2018,827
+Mumbai,Theft,2019,825
+Mumbai,Theft,2020,767
+Mumbai,Theft,2021,862
+Mumbai,Theft,2022,861
+Mumbai,Theft,2023,848
+Mumbai,Theft,2024,834
+Mumbai,Assault,2015,1291
+Mumbai,Assault,2016,1341
+Mumbai,Assault,2017,1346
+Mumbai,Assault,2018,1323
+Mumbai,Assault,2019,1360
+Mumbai,Assault,2020,1390
+Mumbai,Assault,2021,1468
+Mumbai,Assault,2022,1382
+Mumbai,Assault,2023,1384
+Mumbai,Assault,2024,1364
+Mumbai,Kidnapping,2015,1234
+Mumbai,Kidnapping,2016,1330
+Mumbai,Kidnapping,2017,1335
+Mumbai,Kidnapping,2018,1455
+Mumbai,Kidnapping,2019,1326
+Mumbai,Kidnapping,2020,1351
+Mumbai,Kidnapping,2021,1338
+Mumbai,Kidnapping,2022,1280
+Mumbai,Kidnapping,2023,1391
+Mumbai,Kidnapping,2024,1376
+Mumbai,Cyber Crime,2015,128
+Mumbai,Cyber Crime,2016,44
+Mumbai,Cyber Crime,2017,163
+Mumbai,Cyber Crime,2018,24
+Mumbai,Cyber Crime,2019,121
+Mumbai,Cyber Crime,2020,202
+Mumbai,Cyber Crime,2021,47
+Mumbai,Cyber Crime,2022,65
+Mumbai,Cyber Crime,2023,106
+Mumbai,Cyber Crime,2024,79
+Mumbai,Drug Trafficking,2015,1529
+Mumbai,Drug Trafficking,2016,1611
+Mumbai,Drug Trafficking,2017,1556
+Mumbai,Drug Trafficking,2018,1636
+Mumbai,Drug Trafficking,2019,1564
+Mumbai,Drug Trafficking,2020,1690
+Mumbai,Drug Trafficking,2021,1576
+Mumbai,Drug Trafficking,2022,1604
+Mumbai,Drug Trafficking,2023,1662
+Mumbai,Drug Trafficking,2024,1560
+Mumbai,Domestic Violence,2015,1473
+Mumbai,Domestic Violence,2016,1528
+Mumbai,Domestic Violence,2017,1385
+Mumbai,Domestic Violence,2018,1475
+Mumbai,Domestic Violence,2019,1479
+Mumbai,Domestic Violence,2020,1507
+Mumbai,Domestic Violence,2021,1404
+Mumbai,Domestic Violence,2022,1401
+Mumbai,Domestic Violence,2023,1496
+Mumbai,Domestic Violence,2024,1489
+Mumbai,Robbery,2015,533
+Mumbai,Robbery,2016,538
+Mumbai,Robbery,2017,490
+Mumbai,Robbery,2018,534
+Mumbai,Robbery,2019,538
+Mumbai,Robbery,2020,488
+Mumbai,Robbery,2021,620
+Mumbai,Robbery,2022,553
+Mumbai,Robbery,2023,468
+Mumbai,Robbery,2024,564
+Bengaluru,Murder,2015,1105
+Bengaluru,Murder,2016,1195
+Bengaluru,Murder,2017,1214
+Bengaluru,Murder,2018,1116
+Bengaluru,Murder,2019,1208
+Bengaluru,Murder,2020,1183
+Bengaluru,Murder,2021,1199
+Bengaluru,Murder,2022,1253
+Bengaluru,Murder,2023,1150
+Bengaluru,Murder,2024,1126
+Bengaluru,Theft,2015,961
+Bengaluru,Theft,2016,965
+Bengaluru,Theft,2017,1005
+Bengaluru,Theft,2018,1027
+Bengaluru,Theft,2019,1022
+Bengaluru,Theft,2020,1055
+Bengaluru,Theft,2021,1016
+Bengaluru,Theft,2022,1083
+Bengaluru,Theft,2023,999
+Bengaluru,Theft,2024,1153
+Bengaluru,Assault,2015,368
+Bengaluru,Assault,2016,295
+Bengaluru,Assault,2017,285
+Bengaluru,Assault,2018,366
+Bengaluru,Assault,2019,330
+Bengaluru,Assault,2020,381
+Bengaluru,Assault,2021,368
+Bengaluru,Assault,2022,337
+Bengaluru,Assault,2023,310
+Bengaluru,Assault,2024,277
+Bengaluru,Kidnapping,2015,218
+Bengaluru,Kidnapping,2016,285
+Bengaluru,Kidnapping,2017,253
+Bengaluru,Kidnapping,2018,182
+Bengaluru,Kidnapping,2019,252
+Bengaluru,Kidnapping,2020,265
+Bengaluru,Kidnapping,2021,200
+Bengaluru,Kidnapping,2022,256
+Bengaluru,Kidnapping,2023,259
+Bengaluru,Kidnapping,2024,191
+Bengaluru,Cyber Crime,2015,1672
+Bengaluru,Cyber Crime,2016,1683
+Bengaluru,Cyber Crime,2017,1712
+Bengaluru,Cyber Crime,2018,1712
+Bengaluru,Cyber Crime,2019,1592
+Bengaluru,Cyber Crime,2020,1615
+Bengaluru,Cyber Crime,2021,1688
+Bengaluru,Cyber Crime,2022,1686
+Bengaluru,Cyber Crime,2023,1687
+Bengaluru,Cyber Crime,2024,1852
+Bengaluru,Drug Trafficking,2015,1584
+Bengaluru,Drug Trafficking,2016,1614
+Bengaluru,Drug Trafficking,2017,1604
+Bengaluru,Drug Trafficking,2018,1592
+Bengaluru,Drug Trafficking,2019,1545
+Bengaluru,Drug Trafficking,2020,1602
+Bengaluru,Drug Trafficking,2021,1521
+Bengaluru,Drug Trafficking,2022,1557
+Bengaluru,Drug Trafficking,2023,1536
+Bengaluru,Drug Trafficking,2024,1567
+Bengaluru,Domestic Violence,2015,1383
+Bengaluru,Domestic Violence,2016,1176
+Bengaluru,Domestic Violence,2017,1304
+Bengaluru,Domestic Violence,2018,1193
+Bengaluru,Domestic Violence,2019,1249
+Bengaluru,Domestic Violence,2020,1329
+Bengaluru,Domestic Violence,2021,1274
+Bengaluru,Domestic Violence,2022,1218
+Bengaluru,Domestic Violence,2023,1244
+Bengaluru,Domestic Violence,2024,1314
+Bengaluru,Robbery,2015,660
+Bengaluru,Robbery,2016,708
+Bengaluru,Robbery,2017,702
+Bengaluru,Robbery,2018,666
+Bengaluru,Robbery,2019,808
+Bengaluru,Robbery,2020,736
+Bengaluru,Robbery,2021,601
+Bengaluru,Robbery,2022,713
+Bengaluru,Robbery,2023,676
+Bengaluru,Robbery,2024,745
+Hyderabad,Murder,2015,948
+Hyderabad,Murder,2016,983
+Hyderabad,Murder,2017,1014
+Hyderabad,Murder,2018,1035
+Hyderabad,Murder,2019,933
+Hyderabad,Murder,2020,974
+Hyderabad,Murder,2021,970
+Hyderabad,Murder,2022,959
+Hyderabad,Murder,2023,1083
+Hyderabad,Murder,2024,1016
+Hyderabad,Theft,2015,883
+Hyderabad,Theft,2016,994
+Hyderabad,Theft,2017,1055
+Hyderabad,Theft,2018,1004
+Hyderabad,Theft,2019,876
+Hyderabad,Theft,2020,925
+Hyderabad,Theft,2021,1020
+Hyderabad,Theft,2022,918
+Hyderabad,Theft,2023,981
+Hyderabad,Theft,2024,1002
+Hyderabad,Assault,2015,278
+Hyderabad,Assault,2016,323
+Hyderabad,Assault,2017,166
+Hyderabad,Assault,2018,275
+Hyderabad,Assault,2019,316
+Hyderabad,Assault,2020,266
+Hyderabad,Assault,2021,412
+Hyderabad,Assault,2022,264
+Hyderabad,Assault,2023,317
+Hyderabad,Assault,2024,342
+Hyderabad,Kidnapping,2015,636
+Hyderabad,Kidnapping,2016,493
+Hyderabad,Kidnapping,2017,623
+Hyderabad,Kidnapping,2018,567
+Hyderabad,Kidnapping,2019,518
+Hyderabad,Kidnapping,2020,589
+Hyderabad,Kidnapping,2021,583
+Hyderabad,Kidnapping,2022,544
+Hyderabad,Kidnapping,2023,574
+Hyderabad,Kidnapping,2024,559
+Hyderabad,Cyber Crime,2015,1184
+Hyderabad,Cyber Crime,2016,1213
+Hyderabad,Cyber Crime,2017,1259
+Hyderabad,Cyber Crime,2018,1122
+Hyderabad,Cyber Crime,2019,1291
+Hyderabad,Cyber Crime,2020,1085
+Hyderabad,Cyber Crime,2021,1174
+Hyderabad,Cyber Crime,2022,1215
+Hyderabad,Cyber Crime,2023,1203
+Hyderabad,Cyber Crime,2024,1158
+Hyderabad,Drug Trafficking,2015,124
+Hyderabad,Drug Trafficking,2016,112
+Hyderabad,Drug Trafficking,2017,108
+Hyderabad,Drug Trafficking,2018,182
+Hyderabad,Drug Trafficking,2019,160
+Hyderabad,Drug Trafficking,2020,104
+Hyderabad,Drug Trafficking,2021,185
+Hyderabad,Drug Trafficking,2022,154
+Hyderabad,Drug Trafficking,2023,189
+Hyderabad,Drug Trafficking,2024,182
+Hyderabad,Domestic Violence,2015,840
+Hyderabad,Domestic Violence,2016,855
+Hyderabad,Domestic Violence,2017,923
+Hyderabad,Domestic Violence,2018,915
+Hyderabad,Domestic Violence,2019,883
+Hyderabad,Domestic Violence,2020,896
+Hyderabad,Domestic Violence,2021,950
+Hyderabad,Domestic Violence,2022,860
+Hyderabad,Domestic Violence,2023,915
+Hyderabad,Domestic Violence,2024,888
+Hyderabad,Robbery,2015,1641
+Hyderabad,Robbery,2016,1708
+Hyderabad,Robbery,2017,1696
+Hyderabad,Robbery,2018,1697
+Hyderabad,Robbery,2019,1720
+Hyderabad,Robbery,2020,1661
+Hyderabad,Robbery,2021,1690
+Hyderabad,Robbery,2022,1649
+Hyderabad,Robbery,2023,1682
+Hyderabad,Robbery,2024,1652
+Ahmedabad,Murder,2015,1726
+Ahmedabad,Murder,2016,1752
+Ahmedabad,Murder,2017,1684
+Ahmedabad,Murder,2018,1832
+Ahmedabad,Murder,2019,1675
+Ahmedabad,Murder,2020,1668
+Ahmedabad,Murder,2021,1786
+Ahmedabad,Murder,2022,1768
+Ahmedabad,Murder,2023,1758
+Ahmedabad,Murder,2024,1768
+Ahmedabad,Theft,2015,768
+Ahmedabad,Theft,2016,725
+Ahmedabad,Theft,2017,776
+Ahmedabad,Theft,2018,739
+Ahmedabad,Theft,2019,825
+Ahmedabad,Theft,2020,765
+Ahmedabad,Theft,2021,739
+Ahmedabad,Theft,2022,758
+Ahmedabad,Theft,2023,805
+Ahmedabad,Theft,2024,748
+Ahmedabad,Assault,2015,230
+Ahmedabad,Assault,2016,285
+Ahmedabad,Assault,2017,287
+Ahmedabad,Assault,2018,250
+Ahmedabad,Assault,2019,256
+Ahmedabad,Assault,2020,286
+Ahmedabad,Assault,2021,210
+Ahmedabad,Assault,2022,207
+Ahmedabad,Assault,2023,240
+Ahmedabad,Assault,2024,271
+Ahmedabad,Kidnapping,2015,1129
+Ahmedabad,Kidnapping,2016,1189
+Ahmedabad,Kidnapping,2017,1160
+Ahmedabad,Kidnapping,2018,1110
+Ahmedabad,Kidnapping,2019,1119
+Ahmedabad,Kidnapping,2020,1069
+Ahmedabad,Kidnapping,2021,1116
+Ahmedabad,Kidnapping,2022,1110
+Ahmedabad,Kidnapping,2023,1138
+Ahmedabad,Kidnapping,2024,1081
+Ahmedabad,Cyber Crime,2015,1811
+Ahmedabad,Cyber Crime,2016,1864
+Ahmedabad,Cyber Crime,2017,1783
+Ahmedabad,Cyber Crime,2018,1810
+Ahmedabad,Cyber Crime,2019,1824
+Ahmedabad,Cyber Crime,2020,1773
+Ahmedabad,Cyber Crime,2021,1805
+Ahmedabad,Cyber Crime,2022,1792
+Ahmedabad,Cyber Crime,2023,1802
+Ahmedabad,Cyber Crime,2024,1756
+Ahmedabad,Drug Trafficking,2015,1583
+Ahmedabad,Drug Trafficking,2016,1608
+Ahmedabad,Drug Trafficking,2017,1656
+Ahmedabad,Drug Trafficking,2018,1633
+Ahmedabad,Drug Trafficking,2019,1691
+Ahmedabad,Drug Trafficking,2020,1548
+Ahmedabad,Drug Trafficking,2021,1632
+Ahmedabad,Drug Trafficking,2022,1600
+Ahmedabad,Drug Trafficking,2023,1703
+Ahmedabad,Drug Trafficking,2024,1552
+Ahmedabad,Domestic Violence,2015,913
+Ahmedabad,Domestic Violence,2016,926
+Ahmedabad,Domestic Violence,2017,852
+Ahmedabad,Domestic Violence,2018,934
+Ahmedabad,Domestic Violence,2019,923
+Ahmedabad,Domestic Violence,2020,969
+Ahmedabad,Domestic Violence,2021,977
+Ahmedabad,Domestic Violence,2022,1059
+Ahmedabad,Domestic Violence,2023,1013
+Ahmedabad,Domestic Violence,2024,931
+Ahmedabad,Robbery,2015,1954
+Ahmedabad,Robbery,2016,2025
+Ahmedabad,Robbery,2017,1934
+Ahmedabad,Robbery,2018,2092
+Ahmedabad,Robbery,2019,2060
+Ahmedabad,Robbery,2020,1979
+Ahmedabad,Robbery,2021,1920
+Ahmedabad,Robbery,2022,2079
+Ahmedabad,Robbery,2023,1998
+Ahmedabad,Robbery,2024,2070
+Chennai,Murder,2015,1259
+Chennai,Murder,2016,1310
+Chennai,Murder,2017,1341
+Chennai,Murder,2018,1344
+Chennai,Murder,2019,1319
+Chennai,Murder,2020,1377
+Chennai,Murder,2021,1296
+Chennai,Murder,2022,1344
+Chennai,Murder,2023,1359
+Chennai,Murder,2024,1379
+Chennai,Theft,2015,533
+Chennai,Theft,2016,443
+Chennai,Theft,2017,423
+Chennai,Theft,2018,563
+Chennai,Theft,2019,518
+Chennai,Theft,2020,469
+Chennai,Theft,2021,582
+Chennai,Theft,2022,515
+Chennai,Theft,2023,568
+Chennai,Theft,2024,519
+Chennai,Assault,2015,1372
+Chennai,Assault,2016,1358
+Chennai,Assault,2017,1258
+Chennai,Assault,2018,1322
+Chennai,Assault,2019,1308
+Chennai,Assault,2020,1343
+Chennai,Assault,2021,1231
+Chennai,Assault,2022,1311
+Chennai,Assault,2023,1327
+Chennai,Assault,2024,1197
+Chennai,Kidnapping,2015,911
+Chennai,Kidnapping,2016,869
+Chennai,Kidnapping,2017,960
+Chennai,Kidnapping,2018,1011
+Chennai,Kidnapping,2019,1051
+Chennai,Kidnapping,2020,981
+Chennai,Kidnapping,2021,1057
+Chennai,Kidnapping,2022,906
+Chennai,Kidnapping,2023,893
+Chennai,Kidnapping,2024,976
+Chennai,Cyber Crime,2015,723
+Chennai,Cyber Crime,2016,702
+Chennai,Cyber Crime,2017,602
+Chennai,Cyber Crime,2018,702
+Chennai,Cyber Crime,2019,641
+Chennai,Cyber Crime,2020,741
+Chennai,Cyber Crime,2021,729
+Chennai,Cyber Crime,2022,663
+Chennai,Cyber Crime,2023,687
+Chennai,Cyber Crime,2024,656
+Chennai,Drug Trafficking,2015,1751
+Chennai,Drug Trafficking,2016,1804
+Chennai,Drug Trafficking,2017,1708
+Chennai,Drug Trafficking,2018,1784
+Chennai,Drug Trafficking,2019,1735
+Chennai,Drug Trafficking,2020,1723
+Chennai,Drug Trafficking,2021,1756
+Chennai,Drug Trafficking,2022,1706
+Chennai,Drug Trafficking,2023,1735
+Chennai,Drug Trafficking,2024,1709
+Chennai,Domestic Violence,2015,1895
+Chennai,Domestic Violence,2016,1800
+Chennai,Domestic Violence,2017,1764
+Chennai,Domestic Violence,2018,1812
+Chennai,Domestic Violence,2019,1798
+Chennai,Domestic Violence,2020,1795
+Chennai,Domestic Violence,2021,1835
+Chennai,Domestic Violence,2022,1841
+Chennai,Domestic Violence,2023,1780
+Chennai,Domestic Violence,2024,1777
+Chennai,Robbery,2015,1405
+Chennai,Robbery,2016,1305
+Chennai,Robbery,2017,1344
+Chennai,Robbery,2018,1490
+Chennai,Robbery,2019,1504
+Chennai,Robbery,2020,1413
+Chennai,Robbery,2021,1451
+Chennai,Robbery,2022,1442
+Chennai,Robbery,2023,1583
+Chennai,Robbery,2024,1479
+Kolkata,Murder,2015,1359
+Kolkata,Murder,2016,1320
+Kolkata,Murder,2017,1287
+Kolkata,Murder,2018,1378
+Kolkata,Murder,2019,1332
+Kolkata,Murder,2020,1300
+Kolkata,Murder,2021,1339
+Kolkata,Murder,2022,1324
+Kolkata,Murder,2023,1457
+Kolkata,Murder,2024,1427
+Kolkata,Theft,2015,912
+Kolkata,Theft,2016,987
+Kolkata,Theft,2017,917
+Kolkata,Theft,2018,873
+Kolkata,Theft,2019,997
+Kolkata,Theft,2020,945
+Kolkata,Theft,2021,869
+Kolkata,Theft,2022,915
+Kolkata,Theft,2023,881
+Kolkata,Theft,2024,858
+Kolkata,Assault,2015,2040
+Kolkata,Assault,2016,2091
+Kolkata,Assault,2017,1926
+Kolkata,Assault,2018,2024
+Kolkata,Assault,2019,1966
+Kolkata,Assault,2020,1973
+Kolkata,Assault,2021,1975
+Kolkata,Assault,2022,1959
+Kolkata,Assault,2023,2003
+Kolkata,Assault,2024,1961
+Kolkata,Kidnapping,2015,1303
+Kolkata,Kidnapping,2016,1289
+Kolkata,Kidnapping,2017,1279
+Kolkata,Kidnapping,2018,1249
+Kolkata,Kidnapping,2019,1268
+Kolkata,Kidnapping,2020,1331
+Kolkata,Kidnapping,2021,1318
+Kolkata,Kidnapping,2022,1247
+Kolkata,Kidnapping,2023,1307
+Kolkata,Kidnapping,2024,1345
+Kolkata,Cyber Crime,2015,778
+Kolkata,Cyber Crime,2016,889
+Kolkata,Cyber Crime,2017,831
+Kolkata,Cyber Crime,2018,895
+Kolkata,Cyber Crime,2019,827
+Kolkata,Cyber Crime,2020,779
+Kolkata,Cyber Crime,2021,786
+Kolkata,Cyber Crime,2022,875
+Kolkata,Cyber Crime,2023,888
+Kolkata,Cyber Crime,2024,832
+Kolkata,Drug Trafficking,2015,1240
+Kolkata,Drug Trafficking,2016,1126
+Kolkata,Drug Trafficking,2017,1207
+Kolkata,Drug Trafficking,2018,1151
+Kolkata,Drug Trafficking,2019,1181
+Kolkata,Drug Trafficking,2020,1216
+Kolkata,Drug Trafficking,2021,1176
+Kolkata,Drug Trafficking,2022,1201
+Kolkata,Drug Trafficking,2023,1264
+Kolkata,Drug Trafficking,2024,1197
+Kolkata,Domestic Violence,2015,1392
+Kolkata,Domestic Violence,2016,1295
+Kolkata,Domestic Violence,2017,1378
+Kolkata,Domestic Violence,2018,1425
+Kolkata,Domestic Violence,2019,1232
+Kolkata,Domestic Violence,2020,1318
+Kolkata,Domestic Violence,2021,1388
+Kolkata,Domestic Violence,2022,1354
+Kolkata,Domestic Violence,2023,1382
+Kolkata,Domestic Violence,2024,1331
+Kolkata,Robbery,2015,1745
+Kolkata,Robbery,2016,1734
+Kolkata,Robbery,2017,1802
+Kolkata,Robbery,2018,1758
+Kolkata,Robbery,2019,1760
+Kolkata,Robbery,2020,1729
+Kolkata,Robbery,2021,1721
+Kolkata,Robbery,2022,1727
+Kolkata,Robbery,2023,1772
+Kolkata,Robbery,2024,1729
+Pune,Murder,2015,122
+Pune,Murder,2016,212
+Pune,Murder,2017,154
+Pune,Murder,2018,94
+Pune,Murder,2019,171
+Pune,Murder,2020,92
+Pune,Murder,2021,14
+Pune,Murder,2022,70
+Pune,Murder,2023,25
+Pune,Murder,2024,101
+Pune,Theft,2015,441
+Pune,Theft,2016,526
+Pune,Theft,2017,459
+Pune,Theft,2018,434
+Pune,Theft,2019,488
+Pune,Theft,2020,337
+Pune,Theft,2021,460
+Pune,Theft,2022,491
+Pune,Theft,2023,372
+Pune,Theft,2024,505
+Pune,Assault,2015,1482
+Pune,Assault,2016,1446
+Pune,Assault,2017,1499
+Pune,Assault,2018,1583
+Pune,Assault,2019,1479
+Pune,Assault,2020,1488
+Pune,Assault,2021,1450
+Pune,Assault,2022,1430
+Pune,Assault,2023,1516
+Pune,Assault,2024,1431
+Pune,Kidnapping,2015,525
+Pune,Kidnapping,2016,498
+Pune,Kidnapping,2017,547
+Pune,Kidnapping,2018,542
+Pune,Kidnapping,2019,580
+Pune,Kidnapping,2020,500
+Pune,Kidnapping,2021,513
+Pune,Kidnapping,2022,481
+Pune,Kidnapping,2023,512
+Pune,Kidnapping,2024,558
+Pune,Cyber Crime,2015,1161
+Pune,Cyber Crime,2016,1079
+Pune,Cyber Crime,2017,1170
+Pune,Cyber Crime,2018,1194
+Pune,Cyber Crime,2019,1148
+Pune,Cyber Crime,2020,1222
+Pune,Cyber Crime,2021,1094
+Pune,Cyber Crime,2022,1066
+Pune,Cyber Crime,2023,1039
+Pune,Cyber Crime,2024,1204
+Pune,Drug Trafficking,2015,680
+Pune,Drug Trafficking,2016,645
+Pune,Drug Trafficking,2017,665
+Pune,Drug Trafficking,2018,595
+Pune,Drug Trafficking,2019,777
+Pune,Drug Trafficking,2020,661
+Pune,Drug Trafficking,2021,660
+Pune,Drug Trafficking,2022,692
+Pune,Drug Trafficking,2023,678
+Pune,Drug Trafficking,2024,664
+Pune,Domestic Violence,2015,1937
+Pune,Domestic Violence,2016,2001
+Pune,Domestic Violence,2017,2072
+Pune,Domestic Violence,2018,2047
+Pune,Domestic Violence,2019,2062
+Pune,Domestic Violence,2020,1959
+Pune,Domestic Violence,2021,1931
+Pune,Domestic Violence,2022,1982
+Pune,Domestic Violence,2023,1995
+Pune,Domestic Violence,2024,2037
+Pune,Robbery,2015,473
+Pune,Robbery,2016,636
+Pune,Robbery,2017,552
+Pune,Robbery,2018,541
+Pune,Robbery,2019,510
+Pune,Robbery,2020,481
+Pune,Robbery,2021,606
+Pune,Robbery,2022,569
+Pune,Robbery,2023,507
+Pune,Robbery,2024,511
+Jaipur,Murder,2015,658
+Jaipur,Murder,2016,759
+Jaipur,Murder,2017,665
+Jaipur,Murder,2018,601
+Jaipur,Murder,2019,669
+Jaipur,Murder,2020,668
+Jaipur,Murder,2021,545
+Jaipur,Murder,2022,676
+Jaipur,Murder,2023,670
+Jaipur,Murder,2024,721
+Jaipur,Theft,2015,462
+Jaipur,Theft,2016,427
+Jaipur,Theft,2017,359
+Jaipur,Theft,2018,317
+Jaipur,Theft,2019,502
+Jaipur,Theft,2020,380
+Jaipur,Theft,2021,380
+Jaipur,Theft,2022,377
+Jaipur,Theft,2023,392
+Jaipur,Theft,2024,379
+Jaipur,Assault,2015,1634
+Jaipur,Assault,2016,1637
+Jaipur,Assault,2017,1664
+Jaipur,Assault,2018,1638
+Jaipur,Assault,2019,1630
+Jaipur,Assault,2020,1672
+Jaipur,Assault,2021,1654
+Jaipur,Assault,2022,1744
+Jaipur,Assault,2023,1536
+Jaipur,Assault,2024,1722
+Jaipur,Kidnapping,2015,1735
+Jaipur,Kidnapping,2016,1570
+Jaipur,Kidnapping,2017,1658
+Jaipur,Kidnapping,2018,1657
+Jaipur,Kidnapping,2019,1605
+Jaipur,Kidnapping,2020,1641
+Jaipur,Kidnapping,2021,1626
+Jaipur,Kidnapping,2022,1774
+Jaipur,Kidnapping,2023,1729
+Jaipur,Kidnapping,2024,1747
+Jaipur,Cyber Crime,2015,250
+Jaipur,Cyber Crime,2016,159
+Jaipur,Cyber Crime,2017,190
+Jaipur,Cyber Crime,2018,242
+Jaipur,Cyber Crime,2019,155
+Jaipur,Cyber Crime,2020,253
+Jaipur,Cyber Crime,2021,211
+Jaipur,Cyber Crime,2022,207
+Jaipur,Cyber Crime,2023,260
+Jaipur,Cyber Crime,2024,240
+Jaipur,Drug Trafficking,2015,1597
+Jaipur,Drug Trafficking,2016,1674
+Jaipur,Drug Trafficking,2017,1563
+Jaipur,Drug Trafficking,2018,1651
+Jaipur,Drug Trafficking,2019,1650
+Jaipur,Drug Trafficking,2020,1607
+Jaipur,Drug Trafficking,2021,1643
+Jaipur,Drug Trafficking,2022,1558
+Jaipur,Drug Trafficking,2023,1673
+Jaipur,Drug Trafficking,2024,1619
+Jaipur,Domestic Violence,2015,1030
+Jaipur,Domestic Violence,2016,1110
+Jaipur,Domestic Violence,2017,1024
+Jaipur,Domestic Violence,2018,989
+Jaipur,Domestic Violence,2019,981
+Jaipur,Domestic Violence,2020,1091
+Jaipur,Domestic Violence,2021,999
+Jaipur,Domestic Violence,2022,1153
+Jaipur,Domestic Violence,2023,964
+Jaipur,Domestic Violence,2024,1151
+Jaipur,Robbery,2015,1617
+Jaipur,Robbery,2016,1603
+Jaipur,Robbery,2017,1581
+Jaipur,Robbery,2018,1629
+Jaipur,Robbery,2019,1612
+Jaipur,Robbery,2020,1667
+Jaipur,Robbery,2021,1620
+Jaipur,Robbery,2022,1628
+Jaipur,Robbery,2023,1600
+Jaipur,Robbery,2024,1615
+Lucknow,Murder,2015,911
+Lucknow,Murder,2016,811
+Lucknow,Murder,2017,831
+Lucknow,Murder,2018,936
+Lucknow,Murder,2019,909
+Lucknow,Murder,2020,889
+Lucknow,Murder,2021,902
+Lucknow,Murder,2022,918
+Lucknow,Murder,2023,876
+Lucknow,Murder,2024,873
+Lucknow,Theft,2015,1051
+Lucknow,Theft,2016,995
+Lucknow,Theft,2017,1065
+Lucknow,Theft,2018,959
+Lucknow,Theft,2019,1096
+Lucknow,Theft,2020,1072
+Lucknow,Theft,2021,1062
+Lucknow,Theft,2022,1095
+Lucknow,Theft,2023,1141
+Lucknow,Theft,2024,1109
+Lucknow,Assault,2015,902
+Lucknow,Assault,2016,932
+Lucknow,Assault,2017,965
+Lucknow,Assault,2018,1002
+Lucknow,Assault,2019,1024
+Lucknow,Assault,2020,966
+Lucknow,Assault,2021,1011
+Lucknow,Assault,2022,965
+Lucknow,Assault,2023,974
+Lucknow,Assault,2024,935
+Lucknow,Kidnapping,2015,299
+Lucknow,Kidnapping,2016,280
+Lucknow,Kidnapping,2017,299
+Lucknow,Kidnapping,2018,404
+Lucknow,Kidnapping,2019,305
+Lucknow,Kidnapping,2020,482
+Lucknow,Kidnapping,2021,380
+Lucknow,Kidnapping,2022,363
+Lucknow,Kidnapping,2023,318
+Lucknow,Kidnapping,2024,392
+Lucknow,Cyber Crime,2015,1701
+Lucknow,Cyber Crime,2016,1737
+Lucknow,Cyber Crime,2017,1861
+Lucknow,Cyber Crime,2018,1729
+Lucknow,Cyber Crime,2019,1793
+Lucknow,Cyber Crime,2020,1703
+Lucknow,Cyber Crime,2021,1735
+Lucknow,Cyber Crime,2022,1827
+Lucknow,Cyber Crime,2023,1706
+Lucknow,Cyber Crime,2024,1835
+Lucknow,Drug Trafficking,2015,857
+Lucknow,Drug Trafficking,2016,794
+Lucknow,Drug Trafficking,2017,855
+Lucknow,Drug Trafficking,2018,875
+Lucknow,Drug Trafficking,2019,858
+Lucknow,Drug Trafficking,2020,747
+Lucknow,Drug Trafficking,2021,795
+Lucknow,Drug Trafficking,2022,813
+Lucknow,Drug Trafficking,2023,831
+Lucknow,Drug Trafficking,2024,867
+Lucknow,Domestic Violence,2015,1719
+Lucknow,Domestic Violence,2016,1646
+Lucknow,Domestic Violence,2017,1733
+Lucknow,Domestic Violence,2018,1745
+Lucknow,Domestic Violence,2019,1741
+Lucknow,Domestic Violence,2020,1774
+Lucknow,Domestic Violence,2021,1756
+Lucknow,Domestic Violence,2022,1747
+Lucknow,Domestic Violence,2023,1715
+Lucknow,Domestic Violence,2024,1633
+Lucknow,Robbery,2015,1801
+Lucknow,Robbery,2016,1791
+Lucknow,Robbery,2017,1795
+Lucknow,Robbery,2018,1720
+Lucknow,Robbery,2019,1730
+Lucknow,Robbery,2020,1840
+Lucknow,Robbery,2021,1782
+Lucknow,Robbery,2022,1822
+Lucknow,Robbery,2023,1797
+Lucknow,Robbery,2024,1790
+Nagpur,Murder,2015,1514
+Nagpur,Murder,2016,1442
+Nagpur,Murder,2017,1474
+Nagpur,Murder,2018,1449
+Nagpur,Murder,2019,1451
+Nagpur,Murder,2020,1462
+Nagpur,Murder,2021,1487
+Nagpur,Murder,2022,1456
+Nagpur,Murder,2023,1540
+Nagpur,Murder,2024,1435
+Nagpur,Theft,2015,1304
+Nagpur,Theft,2016,1293
+Nagpur,Theft,2017,1390
+Nagpur,Theft,2018,1329
+Nagpur,Theft,2019,1372
+Nagpur,Theft,2020,1245
+Nagpur,Theft,2021,1331
+Nagpur,Theft,2022,1368
+Nagpur,Theft,2023,1332
+Nagpur,Theft,2024,1377
+Nagpur,Assault,2015,1445
+Nagpur,Assault,2016,1542
+Nagpur,Assault,2017,1587
+Nagpur,Assault,2018,1454
+Nagpur,Assault,2019,1452
+Nagpur,Assault,2020,1549
+Nagpur,Assault,2021,1555
+Nagpur,Assault,2022,1452
+Nagpur,Assault,2023,1462
+Nagpur,Assault,2024,1463
+Nagpur,Kidnapping,2015,340
+Nagpur,Kidnapping,2016,363
+Nagpur,Kidnapping,2017,360
+Nagpur,Kidnapping,2018,372
+Nagpur,Kidnapping,2019,413
+Nagpur,Kidnapping,2020,423
+Nagpur,Kidnapping,2021,492
+Nagpur,Kidnapping,2022,364
+Nagpur,Kidnapping,2023,464
+Nagpur,Kidnapping,2024,401
+Nagpur,Cyber Crime,2015,1694
+Nagpur,Cyber Crime,2016,1731
+Nagpur,Cyber Crime,2017,1643
+Nagpur,Cyber Crime,2018,1717
+Nagpur,Cyber Crime,2019,1712
+Nagpur,Cyber Crime,2020,1731
+Nagpur,Cyber Crime,2021,1717
+Nagpur,Cyber Crime,2022,1833
+Nagpur,Cyber Crime,2023,1677
+Nagpur,Cyber Crime,2024,1681
+Nagpur,Drug Trafficking,2015,636
+Nagpur,Drug Trafficking,2016,641
+Nagpur,Drug Trafficking,2017,638
+Nagpur,Drug Trafficking,2018,730
+Nagpur,Drug Trafficking,2019,744
+Nagpur,Drug Trafficking,2020,646
+Nagpur,Drug Trafficking,2021,638
+Nagpur,Drug Trafficking,2022,698
+Nagpur,Drug Trafficking,2023,656
+Nagpur,Drug Trafficking,2024,713
+Nagpur,Domestic Violence,2015,622
+Nagpur,Domestic Violence,2016,538
+Nagpur,Domestic Violence,2017,692
+Nagpur,Domestic Violence,2018,707
+Nagpur,Domestic Violence,2019,588
+Nagpur,Domestic Violence,2020,600
+Nagpur,Domestic Violence,2021,636
+Nagpur,Domestic Violence,2022,641
+Nagpur,Domestic Violence,2023,658
+Nagpur,Domestic Violence,2024,720
+Nagpur,Robbery,2015,1683
+Nagpur,Robbery,2016,1653
+Nagpur,Robbery,2017,1625
+Nagpur,Robbery,2018,1660
+Nagpur,Robbery,2019,1696
+Nagpur,Robbery,2020,1789
+Nagpur,Robbery,2021,1676
+Nagpur,Robbery,2022,1713
+Nagpur,Robbery,2023,1706
+Nagpur,Robbery,2024,1764
+Indore,Murder,2015,808
+Indore,Murder,2016,656
+Indore,Murder,2017,659
+Indore,Murder,2018,736
+Indore,Murder,2019,723
+Indore,Murder,2020,779
+Indore,Murder,2021,717
+Indore,Murder,2022,669
+Indore,Murder,2023,724
+Indore,Murder,2024,753
+Indore,Theft,2015,840
+Indore,Theft,2016,826
+Indore,Theft,2017,855
+Indore,Theft,2018,860
+Indore,Theft,2019,875
+Indore,Theft,2020,837
+Indore,Theft,2021,800
+Indore,Theft,2022,817
+Indore,Theft,2023,867
+Indore,Theft,2024,764
+Indore,Assault,2015,222
+Indore,Assault,2016,186
+Indore,Assault,2017,209
+Indore,Assault,2018,272
+Indore,Assault,2019,221
+Indore,Assault,2020,216
+Indore,Assault,2021,146
+Indore,Assault,2022,248
+Indore,Assault,2023,249
+Indore,Assault,2024,316
+Indore,Kidnapping,2015,1132
+Indore,Kidnapping,2016,1160
+Indore,Kidnapping,2017,1163
+Indore,Kidnapping,2018,1229
+Indore,Kidnapping,2019,1147
+Indore,Kidnapping,2020,1169
+Indore,Kidnapping,2021,1184
+Indore,Kidnapping,2022,1167
+Indore,Kidnapping,2023,1135
+Indore,Kidnapping,2024,1170
+Indore,Cyber Crime,2015,2034
+Indore,Cyber Crime,2016,1931
+Indore,Cyber Crime,2017,1989
+Indore,Cyber Crime,2018,1947
+Indore,Cyber Crime,2019,2047
+Indore,Cyber Crime,2020,1914
+Indore,Cyber Crime,2021,1958
+Indore,Cyber Crime,2022,2007
+Indore,Cyber Crime,2023,2064
+Indore,Cyber Crime,2024,1994
+Indore,Drug Trafficking,2015,645
+Indore,Drug Trafficking,2016,767
+Indore,Drug Trafficking,2017,602
+Indore,Drug Trafficking,2018,566
+Indore,Drug Trafficking,2019,699
+Indore,Drug Trafficking,2020,653
+Indore,Drug Trafficking,2021,633
+Indore,Drug Trafficking,2022,719
+Indore,Drug Trafficking,2023,695
+Indore,Drug Trafficking,2024,657
+Indore,Domestic Violence,2015,1473
+Indore,Domestic Violence,2016,1582
+Indore,Domestic Violence,2017,1571
+Indore,Domestic Violence,2018,1536
+Indore,Domestic Violence,2019,1634
+Indore,Domestic Violence,2020,1494
+Indore,Domestic Violence,2021,1465
+Indore,Domestic Violence,2022,1510
+Indore,Domestic Violence,2023,1545
+Indore,Domestic Violence,2024,1567
+Indore,Robbery,2015,1788
+Indore,Robbery,2016,1820
+Indore,Robbery,2017,1740
+Indore,Robbery,2018,1878
+Indore,Robbery,2019,1802
+Indore,Robbery,2020,1859
+Indore,Robbery,2021,1823
+Indore,Robbery,2022,1837
+Indore,Robbery,2023,1844
+Indore,Robbery,2024,1839
+Bhopal,Murder,2015,269
+Bhopal,Murder,2016,304
+Bhopal,Murder,2017,249
+Bhopal,Murder,2018,274
+Bhopal,Murder,2019,239
+Bhopal,Murder,2020,313
+Bhopal,Murder,2021,207
+Bhopal,Murder,2022,336
+Bhopal,Murder,2023,239
+Bhopal,Murder,2024,180
+Bhopal,Theft,2015,480
+Bhopal,Theft,2016,441
+Bhopal,Theft,2017,517
+Bhopal,Theft,2018,446
+Bhopal,Theft,2019,458
+Bhopal,Theft,2020,386
+Bhopal,Theft,2021,456
+Bhopal,Theft,2022,366
+Bhopal,Theft,2023,410
+Bhopal,Theft,2024,523
+Bhopal,Assault,2015,1724
+Bhopal,Assault,2016,1707
+Bhopal,Assault,2017,1637
+Bhopal,Assault,2018,1684
+Bhopal,Assault,2019,1691
+Bhopal,Assault,2020,1631
+Bhopal,Assault,2021,1766
+Bhopal,Assault,2022,1734
+Bhopal,Assault,2023,1678
+Bhopal,Assault,2024,1700
+Bhopal,Kidnapping,2015,1137
+Bhopal,Kidnapping,2016,1025
+Bhopal,Kidnapping,2017,1116
+Bhopal,Kidnapping,2018,1096
+Bhopal,Kidnapping,2019,1082
+Bhopal,Kidnapping,2020,1118
+Bhopal,Kidnapping,2021,1221
+Bhopal,Kidnapping,2022,1169
+Bhopal,Kidnapping,2023,1111
+Bhopal,Kidnapping,2024,1172
+Bhopal,Cyber Crime,2015,1468
+Bhopal,Cyber Crime,2016,1446
+Bhopal,Cyber Crime,2017,1405
+Bhopal,Cyber Crime,2018,1368
+Bhopal,Cyber Crime,2019,1438
+Bhopal,Cyber Crime,2020,1424
+Bhopal,Cyber Crime,2021,1452
+Bhopal,Cyber Crime,2022,1439
+Bhopal,Cyber Crime,2023,1466
+Bhopal,Cyber Crime,2024,1377
+Bhopal,Drug Trafficking,2015,280
+Bhopal,Drug Trafficking,2016,225
+Bhopal,Drug Trafficking,2017,320
+Bhopal,Drug Trafficking,2018,184
+Bhopal,Drug Trafficking,2019,307
+Bhopal,Drug Trafficking,2020,232
+Bhopal,Drug Trafficking,2021,188
+Bhopal,Drug Trafficking,2022,200
+Bhopal,Drug Trafficking,2023,206
+Bhopal,Drug Trafficking,2024,247
+Bhopal,Domestic Violence,2015,957
+Bhopal,Domestic Violence,2016,903
+Bhopal,Domestic Violence,2017,933
+Bhopal,Domestic Violence,2018,1042
+Bhopal,Domestic Violence,2019,1023
+Bhopal,Domestic Violence,2020,960
+Bhopal,Domestic Violence,2021,937
+Bhopal,Domestic Violence,2022,945
+Bhopal,Domestic Violence,2023,968
+Bhopal,Domestic Violence,2024,888
+Bhopal,Robbery,2015,965
+Bhopal,Robbery,2016,896
+Bhopal,Robbery,2017,999
+Bhopal,Robbery,2018,1013
+Bhopal,Robbery,2019,957
+Bhopal,Robbery,2020,1066
+Bhopal,Robbery,2021,925
+Bhopal,Robbery,2022,913
+Bhopal,Robbery,2023,994
+Bhopal,Robbery,2024,1036
+Patna,Murder,2015,1018
+Patna,Murder,2016,912
+Patna,Murder,2017,991
+Patna,Murder,2018,936
+Patna,Murder,2019,930
+Patna,Murder,2020,984
+Patna,Murder,2021,972
+Patna,Murder,2022,859
+Patna,Murder,2023,1016
+Patna,Murder,2024,1016
+Patna,Theft,2015,1554
+Patna,Theft,2016,1607
+Patna,Theft,2017,1611
+Patna,Theft,2018,1601
+Patna,Theft,2019,1562
+Patna,Theft,2020,1555
+Patna,Theft,2021,1592
+Patna,Theft,2022,1649
+Patna,Theft,2023,1622
+Patna,Theft,2024,1583
+Patna,Assault,2015,805
+Patna,Assault,2016,625
+Patna,Assault,2017,827
+Patna,Assault,2018,684
+Patna,Assault,2019,755
+Patna,Assault,2020,719
+Patna,Assault,2021,714
+Patna,Assault,2022,837
+Patna,Assault,2023,754
+Patna,Assault,2024,797
+Patna,Kidnapping,2015,100
+Patna,Kidnapping,2016,128
+Patna,Kidnapping,2017,109
+Patna,Kidnapping,2018,40
+Patna,Kidnapping,2019,156
+Patna,Kidnapping,2020,86
+Patna,Kidnapping,2021,36
+Patna,Kidnapping,2022,88
+Patna,Kidnapping,2023,184
+Patna,Kidnapping,2024,151
+Patna,Cyber Crime,2015,1378
+Patna,Cyber Crime,2016,1379
+Patna,Cyber Crime,2017,1382
+Patna,Cyber Crime,2018,1501
+Patna,Cyber Crime,2019,1421
+Patna,Cyber Crime,2020,1421
+Patna,Cyber Crime,2021,1454
+Patna,Cyber Crime,2022,1415
+Patna,Cyber Crime,2023,1391
+Patna,Cyber Crime,2024,1400
+Patna,Drug Trafficking,2015,1636
+Patna,Drug Trafficking,2016,1639
+Patna,Drug Trafficking,2017,1680
+Patna,Drug Trafficking,2018,1644
+Patna,Drug Trafficking,2019,1683
+Patna,Drug Trafficking,2020,1638
+Patna,Drug Trafficking,2021,1647
+Patna,Drug Trafficking,2022,1548
+Patna,Drug Trafficking,2023,1694
+Patna,Drug Trafficking,2024,1670
+Patna,Domestic Violence,2015,947
+Patna,Domestic Violence,2016,754
+Patna,Domestic Violence,2017,1003
+Patna,Domestic Violence,2018,894
+Patna,Domestic Violence,2019,957
+Patna,Domestic Violence,2020,853
+Patna,Domestic Violence,2021,936
+Patna,Domestic Violence,2022,855
+Patna,Domestic Violence,2023,871
+Patna,Domestic Violence,2024,1003
+Patna,Robbery,2015,1267
+Patna,Robbery,2016,1288
+Patna,Robbery,2017,1324
+Patna,Robbery,2018,1306
+Patna,Robbery,2019,1291
+Patna,Robbery,2020,1299
+Patna,Robbery,2021,1401
+Patna,Robbery,2022,1282
+Patna,Robbery,2023,1296
+Patna,Robbery,2024,1335
+Ludhiana,Murder,2015,1195
+Ludhiana,Murder,2016,1200
+Ludhiana,Murder,2017,1175
+Ludhiana,Murder,2018,1087
+Ludhiana,Murder,2019,1224
+Ludhiana,Murder,2020,1091
+Ludhiana,Murder,2021,1158
+Ludhiana,Murder,2022,1105
+Ludhiana,Murder,2023,1151
+Ludhiana,Murder,2024,1172
+Ludhiana,Theft,2015,1245
+Ludhiana,Theft,2016,1251
+Ludhiana,Theft,2017,1312
+Ludhiana,Theft,2018,1254
+Ludhiana,Theft,2019,1221
+Ludhiana,Theft,2020,1286
+Ludhiana,Theft,2021,1293
+Ludhiana,Theft,2022,1181
+Ludhiana,Theft,2023,1268
+Ludhiana,Theft,2024,1277
+Ludhiana,Assault,2015,776
+Ludhiana,Assault,2016,861
+Ludhiana,Assault,2017,785
+Ludhiana,Assault,2018,801
+Ludhiana,Assault,2019,787
+Ludhiana,Assault,2020,797
+Ludhiana,Assault,2021,741
+Ludhiana,Assault,2022,726
+Ludhiana,Assault,2023,878
+Ludhiana,Assault,2024,755
+Ludhiana,Kidnapping,2015,1045
+Ludhiana,Kidnapping,2016,988
+Ludhiana,Kidnapping,2017,1064
+Ludhiana,Kidnapping,2018,1033
+Ludhiana,Kidnapping,2019,1181
+Ludhiana,Kidnapping,2020,1155
+Ludhiana,Kidnapping,2021,1069
+Ludhiana,Kidnapping,2022,1212
+Ludhiana,Kidnapping,2023,1149
+Ludhiana,Kidnapping,2024,1086
+Ludhiana,Cyber Crime,2015,280
+Ludhiana,Cyber Crime,2016,521
+Ludhiana,Cyber Crime,2017,338
+Ludhiana,Cyber Crime,2018,325
+Ludhiana,Cyber Crime,2019,462
+Ludhiana,Cyber Crime,2020,533
+Ludhiana,Cyber Crime,2021,484
+Ludhiana,Cyber Crime,2022,444
+Ludhiana,Cyber Crime,2023,444
+Ludhiana,Cyber Crime,2024,464
+Ludhiana,Drug Trafficking,2015,1243
+Ludhiana,Drug Trafficking,2016,1222
+Ludhiana,Drug Trafficking,2017,1213
+Ludhiana,Drug Trafficking,2018,1208
+Ludhiana,Drug Trafficking,2019,1172
+Ludhiana,Drug Trafficking,2020,1197
+Ludhiana,Drug Trafficking,2021,1128
+Ludhiana,Drug Trafficking,2022,1211
+Ludhiana,Drug Trafficking,2023,1170
+Ludhiana,Drug Trafficking,2024,1163
+Ludhiana,Domestic Violence,2015,778
+Ludhiana,Domestic Violence,2016,840
+Ludhiana,Domestic Violence,2017,818
+Ludhiana,Domestic Violence,2018,693
+Ludhiana,Domestic Violence,2019,727
+Ludhiana,Domestic Violence,2020,820
+Ludhiana,Domestic Violence,2021,731
+Ludhiana,Domestic Violence,2022,771
+Ludhiana,Domestic Violence,2023,808
+Ludhiana,Domestic Violence,2024,732
+Ludhiana,Robbery,2015,1002
+Ludhiana,Robbery,2016,932
+Ludhiana,Robbery,2017,970
+Ludhiana,Robbery,2018,1014
+Ludhiana,Robbery,2019,924
+Ludhiana,Robbery,2020,1025
+Ludhiana,Robbery,2021,1000
+Ludhiana,Robbery,2022,1034
+Ludhiana,Robbery,2023,1018
+Ludhiana,Robbery,2024,1082
+Agra,Murder,2015,978
+Agra,Murder,2016,952
+Agra,Murder,2017,980
+Agra,Murder,2018,1003
+Agra,Murder,2019,979
+Agra,Murder,2020,977
+Agra,Murder,2021,942
+Agra,Murder,2022,946
+Agra,Murder,2023,911
+Agra,Murder,2024,1071
+Agra,Theft,2015,312
+Agra,Theft,2016,342
+Agra,Theft,2017,341
+Agra,Theft,2018,424
+Agra,Theft,2019,366
+Agra,Theft,2020,440
+Agra,Theft,2021,350
+Agra,Theft,2022,395
+Agra,Theft,2023,341
+Agra,Theft,2024,494
+Agra,Assault,2015,781
+Agra,Assault,2016,858
+Agra,Assault,2017,875
+Agra,Assault,2018,867
+Agra,Assault,2019,838
+Agra,Assault,2020,839
+Agra,Assault,2021,851
+Agra,Assault,2022,838
+Agra,Assault,2023,897
+Agra,Assault,2024,969
+Agra,Kidnapping,2015,1452
+Agra,Kidnapping,2016,1412
+Agra,Kidnapping,2017,1478
+Agra,Kidnapping,2018,1610
+Agra,Kidnapping,2019,1445
+Agra,Kidnapping,2020,1569
+Agra,Kidnapping,2021,1569
+Agra,Kidnapping,2022,1457
+Agra,Kidnapping,2023,1520
+Agra,Kidnapping,2024,1578
+Agra,Cyber Crime,2015,1434
+Agra,Cyber Crime,2016,1443
+Agra,Cyber Crime,2017,1426
+Agra,Cyber Crime,2018,1406
+Agra,Cyber Crime,2019,1422
+Agra,Cyber Crime,2020,1396
+Agra,Cyber Crime,2021,1466
+Agra,Cyber Crime,2022,1421
+Agra,Cyber Crime,2023,1477
+Agra,Cyber Crime,2024,1382
+Agra,Drug Trafficking,2015,347
+Agra,Drug Trafficking,2016,373
+Agra,Drug Trafficking,2017,234
+Agra,Drug Trafficking,2018,353
+Agra,Drug Trafficking,2019,397
+Agra,Drug Trafficking,2020,278
+Agra,Drug Trafficking,2021,422
+Agra,Drug Trafficking,2022,362
+Agra,Drug Trafficking,2023,310
+Agra,Drug Trafficking,2024,341
+Agra,Domestic Violence,2015,1300
+Agra,Domestic Violence,2016,1277
+Agra,Domestic Violence,2017,1303
+Agra,Domestic Violence,2018,1231
+Agra,Domestic Violence,2019,1288
+Agra,Domestic Violence,2020,1206
+Agra,Domestic Violence,2021,1274
+Agra,Domestic Violence,2022,1235
+Agra,Domestic Violence,2023,1248
+Agra,Domestic Violence,2024,1342
+Agra,Robbery,2015,1013
+Agra,Robbery,2016,991
+Agra,Robbery,2017,907
+Agra,Robbery,2018,945
+Agra,Robbery,2019,1023
+Agra,Robbery,2020,975
+Agra,Robbery,2021,1085
+Agra,Robbery,2022,991
+Agra,Robbery,2023,974
+Agra,Robbery,2024,957
+Nashik,Murder,2015,1224
+Nashik,Murder,2016,1211
+Nashik,Murder,2017,1255
+Nashik,Murder,2018,1269
+Nashik,Murder,2019,1183
+Nashik,Murder,2020,1161
+Nashik,Murder,2021,1136
+Nashik,Murder,2022,1255
+Nashik,Murder,2023,1168
+Nashik,Murder,2024,1118
+Nashik,Theft,2015,1382
+Nashik,Theft,2016,1488
+Nashik,Theft,2017,1366
+Nashik,Theft,2018,1409
+Nashik,Theft,2019,1372
+Nashik,Theft,2020,1361
+Nashik,Theft,2021,1412
+Nashik,Theft,2022,1353
+Nashik,Theft,2023,1385
+Nashik,Theft,2024,1390
+Nashik,Assault,2015,1717
+Nashik,Assault,2016,1802
+Nashik,Assault,2017,1743
+Nashik,Assault,2018,1716
+Nashik,Assault,2019,1781
+Nashik,Assault,2020,1708
+Nashik,Assault,2021,1755
+Nashik,Assault,2022,1759
+Nashik,Assault,2023,1812
+Nashik,Assault,2024,1792
+Nashik,Kidnapping,2015,815
+Nashik,Kidnapping,2016,858
+Nashik,Kidnapping,2017,887
+Nashik,Kidnapping,2018,849
+Nashik,Kidnapping,2019,821
+Nashik,Kidnapping,2020,755
+Nashik,Kidnapping,2021,767
+Nashik,Kidnapping,2022,814
+Nashik,Kidnapping,2023,796
+Nashik,Kidnapping,2024,823
+Nashik,Cyber Crime,2015,1606
+Nashik,Cyber Crime,2016,1631
+Nashik,Cyber Crime,2017,1601
+Nashik,Cyber Crime,2018,1630
+Nashik,Cyber Crime,2019,1610
+Nashik,Cyber Crime,2020,1513
+Nashik,Cyber Crime,2021,1564
+Nashik,Cyber Crime,2022,1607
+Nashik,Cyber Crime,2023,1553
+Nashik,Cyber Crime,2024,1639
+Nashik,Drug Trafficking,2015,716
+Nashik,Drug Trafficking,2016,701
+Nashik,Drug Trafficking,2017,631
+Nashik,Drug Trafficking,2018,718
+Nashik,Drug Trafficking,2019,653
+Nashik,Drug Trafficking,2020,626
+Nashik,Drug Trafficking,2021,619
+Nashik,Drug Trafficking,2022,633
+Nashik,Drug Trafficking,2023,631
+Nashik,Drug Trafficking,2024,661
+Nashik,Domestic Violence,2015,1235
+Nashik,Domestic Violence,2016,1227
+Nashik,Domestic Violence,2017,1251
+Nashik,Domestic Violence,2018,1290
+Nashik,Domestic Violence,2019,1277
+Nashik,Domestic Violence,2020,1158
+Nashik,Domestic Violence,2021,1108
+Nashik,Domestic Violence,2022,1278
+Nashik,Domestic Violence,2023,1174
+Nashik,Domestic Violence,2024,1221
+Nashik,Robbery,2015,1068
+Nashik,Robbery,2016,1038
+Nashik,Robbery,2017,1156
+Nashik,Robbery,2018,1166
+Nashik,Robbery,2019,1105
+Nashik,Robbery,2020,1000
+Nashik,Robbery,2021,1106
+Nashik,Robbery,2022,1154
+Nashik,Robbery,2023,1066
+Nashik,Robbery,2024,1145
+Faridabad,Murder,2015,187
+Faridabad,Murder,2016,218
+Faridabad,Murder,2017,196
+Faridabad,Murder,2018,144
+Faridabad,Murder,2019,254
+Faridabad,Murder,2020,185
+Faridabad,Murder,2021,190
+Faridabad,Murder,2022,150
+Faridabad,Murder,2023,179
+Faridabad,Murder,2024,150
+Faridabad,Theft,2015,1636
+Faridabad,Theft,2016,1732
+Faridabad,Theft,2017,1578
+Faridabad,Theft,2018,1566
+Faridabad,Theft,2019,1721
+Faridabad,Theft,2020,1642
+Faridabad,Theft,2021,1623
+Faridabad,Theft,2022,1700
+Faridabad,Theft,2023,1621
+Faridabad,Theft,2024,1751
+Faridabad,Assault,2015,1897
+Faridabad,Assault,2016,1841
+Faridabad,Assault,2017,1974
+Faridabad,Assault,2018,1839
+Faridabad,Assault,2019,1906
+Faridabad,Assault,2020,1883
+Faridabad,Assault,2021,1938
+Faridabad,Assault,2022,1947
+Faridabad,Assault,2023,1873
+Faridabad,Assault,2024,1841
+Faridabad,Kidnapping,2015,1845
+Faridabad,Kidnapping,2016,1790
+Faridabad,Kidnapping,2017,1927
+Faridabad,Kidnapping,2018,1833
+Faridabad,Kidnapping,2019,1809
+Faridabad,Kidnapping,2020,1838
+Faridabad,Kidnapping,2021,1767
+Faridabad,Kidnapping,2022,1781
+Faridabad,Kidnapping,2023,1889
+Faridabad,Kidnapping,2024,1803
+Faridabad,Cyber Crime,2015,749
+Faridabad,Cyber Crime,2016,830
+Faridabad,Cyber Crime,2017,864
+Faridabad,Cyber Crime,2018,842
+Faridabad,Cyber Crime,2019,854
+Faridabad,Cyber Crime,2020,771
+Faridabad,Cyber Crime,2021,741
+Faridabad,Cyber Crime,2022,886
+Faridabad,Cyber Crime,2023,793
+Faridabad,Cyber Crime,2024,795
+Faridabad,Drug Trafficking,2015,1469
+Faridabad,Drug Trafficking,2016,1431
+Faridabad,Drug Trafficking,2017,1428
+Faridabad,Drug Trafficking,2018,1513
+Faridabad,Drug Trafficking,2019,1375
+Faridabad,Drug Trafficking,2020,1455
+Faridabad,Drug Trafficking,2021,1415
+Faridabad,Drug Trafficking,2022,1429
+Faridabad,Drug Trafficking,2023,1490
+Faridabad,Drug Trafficking,2024,1438
+Faridabad,Domestic Violence,2015,1385
+Faridabad,Domestic Violence,2016,1414
+Faridabad,Domestic Violence,2017,1341
+Faridabad,Domestic Violence,2018,1321
+Faridabad,Domestic Violence,2019,1310
+Faridabad,Domestic Violence,2020,1269
+Faridabad,Domestic Violence,2021,1470
+Faridabad,Domestic Violence,2022,1317
+Faridabad,Domestic Violence,2023,1353
+Faridabad,Domestic Violence,2024,1357
+Faridabad,Robbery,2015,1665
+Faridabad,Robbery,2016,1691
+Faridabad,Robbery,2017,1694
+Faridabad,Robbery,2018,1625
+Faridabad,Robbery,2019,1645
+Faridabad,Robbery,2020,1673
+Faridabad,Robbery,2021,1640
+Faridabad,Robbery,2022,1735
+Faridabad,Robbery,2023,1683
+Faridabad,Robbery,2024,1696
+Meerut,Murder,2015,992
+Meerut,Murder,2016,1019
+Meerut,Murder,2017,970
+Meerut,Murder,2018,897
+Meerut,Murder,2019,984
+Meerut,Murder,2020,930
+Meerut,Murder,2021,936
+Meerut,Murder,2022,999
+Meerut,Murder,2023,1030
+Meerut,Murder,2024,969
+Meerut,Theft,2015,1215
+Meerut,Theft,2016,1286
+Meerut,Theft,2017,1215
+Meerut,Theft,2018,1332
+Meerut,Theft,2019,1233
+Meerut,Theft,2020,1119
+Meerut,Theft,2021,1249
+Meerut,Theft,2022,1224
+Meerut,Theft,2023,1270
+Meerut,Theft,2024,1239
+Meerut,Assault,2015,396
+Meerut,Assault,2016,342
+Meerut,Assault,2017,393
+Meerut,Assault,2018,365
+Meerut,Assault,2019,381
+Meerut,Assault,2020,437
+Meerut,Assault,2021,492
+Meerut,Assault,2022,426
+Meerut,Assault,2023,353
+Meerut,Assault,2024,441
+Meerut,Kidnapping,2015,1852
+Meerut,Kidnapping,2016,1764
+Meerut,Kidnapping,2017,1789
+Meerut,Kidnapping,2018,1796
+Meerut,Kidnapping,2019,1757
+Meerut,Kidnapping,2020,1829
+Meerut,Kidnapping,2021,1798
+Meerut,Kidnapping,2022,1825
+Meerut,Kidnapping,2023,1755
+Meerut,Kidnapping,2024,1782
+Meerut,Cyber Crime,2015,825
+Meerut,Cyber Crime,2016,771
+Meerut,Cyber Crime,2017,878
+Meerut,Cyber Crime,2018,773
+Meerut,Cyber Crime,2019,805
+Meerut,Cyber Crime,2020,838
+Meerut,Cyber Crime,2021,723
+Meerut,Cyber Crime,2022,714
+Meerut,Cyber Crime,2023,725
+Meerut,Cyber Crime,2024,863
+Meerut,Drug Trafficking,2015,1597
+Meerut,Drug Trafficking,2016,1754
+Meerut,Drug Trafficking,2017,1598
+Meerut,Drug Trafficking,2018,1637
+Meerut,Drug Trafficking,2019,1704
+Meerut,Drug Trafficking,2020,1731
+Meerut,Drug Trafficking,2021,1735
+Meerut,Drug Trafficking,2022,1690
+Meerut,Drug Trafficking,2023,1690
+Meerut,Drug Trafficking,2024,1666
+Meerut,Domestic Violence,2015,1291
+Meerut,Domestic Violence,2016,1227
+Meerut,Domestic Violence,2017,1214
+Meerut,Domestic Violence,2018,1258
+Meerut,Domestic Violence,2019,1246
+Meerut,Domestic Violence,2020,1233
+Meerut,Domestic Violence,2021,1292
+Meerut,Domestic Violence,2022,1305
+Meerut,Domestic Violence,2023,1265
+Meerut,Domestic Violence,2024,1340
+Meerut,Robbery,2015,700
+Meerut,Robbery,2016,749
+Meerut,Robbery,2017,724
+Meerut,Robbery,2018,666
+Meerut,Robbery,2019,757
+Meerut,Robbery,2020,761
+Meerut,Robbery,2021,839
+Meerut,Robbery,2022,799
+Meerut,Robbery,2023,718
+Meerut,Robbery,2024,856
+Rajkot,Murder,2015,1423
+Rajkot,Murder,2016,1393
+Rajkot,Murder,2017,1352
+Rajkot,Murder,2018,1318
+Rajkot,Murder,2019,1349
+Rajkot,Murder,2020,1423
+Rajkot,Murder,2021,1466
+Rajkot,Murder,2022,1448
+Rajkot,Murder,2023,1351
+Rajkot,Murder,2024,1310
+Rajkot,Theft,2015,150
+Rajkot,Theft,2016,56
+Rajkot,Theft,2017,160
+Rajkot,Theft,2018,138
+Rajkot,Theft,2019,125
+Rajkot,Theft,2020,70
+Rajkot,Theft,2021,171
+Rajkot,Theft,2022,129
+Rajkot,Theft,2023,95
+Rajkot,Theft,2024,12
+Rajkot,Assault,2015,666
+Rajkot,Assault,2016,758
+Rajkot,Assault,2017,754
+Rajkot,Assault,2018,647
+Rajkot,Assault,2019,640
+Rajkot,Assault,2020,694
+Rajkot,Assault,2021,625
+Rajkot,Assault,2022,691
+Rajkot,Assault,2023,712
+Rajkot,Assault,2024,742
+Rajkot,Kidnapping,2015,684
+Rajkot,Kidnapping,2016,680
+Rajkot,Kidnapping,2017,650
+Rajkot,Kidnapping,2018,651
+Rajkot,Kidnapping,2019,683
+Rajkot,Kidnapping,2020,716
+Rajkot,Kidnapping,2021,743
+Rajkot,Kidnapping,2022,654
+Rajkot,Kidnapping,2023,771
+Rajkot,Kidnapping,2024,682
+Rajkot,Cyber Crime,2015,968
+Rajkot,Cyber Crime,2016,933
+Rajkot,Cyber Crime,2017,850
+Rajkot,Cyber Crime,2018,1017
+Rajkot,Cyber Crime,2019,1012
+Rajkot,Cyber Crime,2020,960
+Rajkot,Cyber Crime,2021,984
+Rajkot,Cyber Crime,2022,1000
+Rajkot,Cyber Crime,2023,899
+Rajkot,Cyber Crime,2024,955
+Rajkot,Drug Trafficking,2015,729
+Rajkot,Drug Trafficking,2016,628
+Rajkot,Drug Trafficking,2017,708
+Rajkot,Drug Trafficking,2018,625
+Rajkot,Drug Trafficking,2019,720
+Rajkot,Drug Trafficking,2020,694
+Rajkot,Drug Trafficking,2021,613
+Rajkot,Drug Trafficking,2022,755
+Rajkot,Drug Trafficking,2023,662
+Rajkot,Drug Trafficking,2024,657
+Rajkot,Domestic Violence,2015,1254
+Rajkot,Domestic Violence,2016,1302
+Rajkot,Domestic Violence,2017,1195
+Rajkot,Domestic Violence,2018,1252
+Rajkot,Domestic Violence,2019,1271
+Rajkot,Domestic Violence,2020,1284
+Rajkot,Domestic Violence,2021,1260
+Rajkot,Domestic Violence,2022,1238
+Rajkot,Domestic Violence,2023,1211
+Rajkot,Domestic Violence,2024,1264
+Rajkot,Robbery,2015,1485
+Rajkot,Robbery,2016,1394
+Rajkot,Robbery,2017,1561
+Rajkot,Robbery,2018,1585
+Rajkot,Robbery,2019,1426
+Rajkot,Robbery,2020,1493
+Rajkot,Robbery,2021,1575
+Rajkot,Robbery,2022,1649
+Rajkot,Robbery,2023,1549
+Rajkot,Robbery,2024,1514
+Varanasi,Murder,2015,1730
+Varanasi,Murder,2016,1810
+Varanasi,Murder,2017,1709
+Varanasi,Murder,2018,1705
+Varanasi,Murder,2019,1720
+Varanasi,Murder,2020,1700
+Varanasi,Murder,2021,1752
+Varanasi,Murder,2022,1834
+Varanasi,Murder,2023,1769
+Varanasi,Murder,2024,1734
+Varanasi,Theft,2015,1077
+Varanasi,Theft,2016,1014
+Varanasi,Theft,2017,1137
+Varanasi,Theft,2018,1092
+Varanasi,Theft,2019,1089
+Varanasi,Theft,2020,1258
+Varanasi,Theft,2021,1111
+Varanasi,Theft,2022,1067
+Varanasi,Theft,2023,1076
+Varanasi,Theft,2024,1166
+Varanasi,Assault,2015,707
+Varanasi,Assault,2016,632
+Varanasi,Assault,2017,751
+Varanasi,Assault,2018,671
+Varanasi,Assault,2019,799
+Varanasi,Assault,2020,764
+Varanasi,Assault,2021,687
+Varanasi,Assault,2022,776
+Varanasi,Assault,2023,712
+Varanasi,Assault,2024,760
+Varanasi,Kidnapping,2015,828
+Varanasi,Kidnapping,2016,762
+Varanasi,Kidnapping,2017,774
+Varanasi,Kidnapping,2018,858
+Varanasi,Kidnapping,2019,794
+Varanasi,Kidnapping,2020,792
+Varanasi,Kidnapping,2021,764
+Varanasi,Kidnapping,2022,834
+Varanasi,Kidnapping,2023,914
+Varanasi,Kidnapping,2024,763
+Varanasi,Cyber Crime,2015,1640
+Varanasi,Cyber Crime,2016,1710
+Varanasi,Cyber Crime,2017,1636
+Varanasi,Cyber Crime,2018,1665
+Varanasi,Cyber Crime,2019,1591
+Varanasi,Cyber Crime,2020,1668
+Varanasi,Cyber Crime,2021,1639
+Varanasi,Cyber Crime,2022,1695
+Varanasi,Cyber Crime,2023,1712
+Varanasi,Cyber Crime,2024,1776
+Varanasi,Drug Trafficking,2015,1250
+Varanasi,Drug Trafficking,2016,1238
+Varanasi,Drug Trafficking,2017,1232
+Varanasi,Drug Trafficking,2018,1207
+Varanasi,Drug Trafficking,2019,1241
+Varanasi,Drug Trafficking,2020,1214
+Varanasi,Drug Trafficking,2021,1237
+Varanasi,Drug Trafficking,2022,1299
+Varanasi,Drug Trafficking,2023,1186
+Varanasi,Drug Trafficking,2024,1295
+Varanasi,Domestic Violence,2015,1621
+Varanasi,Domestic Violence,2016,1551
+Varanasi,Domestic Violence,2017,1452
+Varanasi,Domestic Violence,2018,1529
+Varanasi,Domestic Violence,2019,1628
+Varanasi,Domestic Violence,2020,1560
+Varanasi,Domestic Violence,2021,1512
+Varanasi,Domestic Violence,2022,1544
+Varanasi,Domestic Violence,2023,1607
+Varanasi,Domestic Violence,2024,1595
+Varanasi,Robbery,2015,1156
+Varanasi,Robbery,2016,1151
+Varanasi,Robbery,2017,1151
+Varanasi,Robbery,2018,1126
+Varanasi,Robbery,2019,1254
+Varanasi,Robbery,2020,1158
+Varanasi,Robbery,2021,1233
+Varanasi,Robbery,2022,1250
+Varanasi,Robbery,2023,1228
+Varanasi,Robbery,2024,1153
+Srinagar,Murder,2015,679
+Srinagar,Murder,2016,659
+Srinagar,Murder,2017,616
+Srinagar,Murder,2018,678
+Srinagar,Murder,2019,604
+Srinagar,Murder,2020,725
+Srinagar,Murder,2021,647
+Srinagar,Murder,2022,680
+Srinagar,Murder,2023,680
+Srinagar,Murder,2024,658
+Srinagar,Theft,2015,1191
+Srinagar,Theft,2016,1140
+Srinagar,Theft,2017,1209
+Srinagar,Theft,2018,1100
+Srinagar,Theft,2019,1175
+Srinagar,Theft,2020,1263
+Srinagar,Theft,2021,1117
+Srinagar,Theft,2022,1139
+Srinagar,Theft,2023,1195
+Srinagar,Theft,2024,1181
+Srinagar,Assault,2015,592
+Srinagar,Assault,2016,600
+Srinagar,Assault,2017,610
+Srinagar,Assault,2018,633
+Srinagar,Assault,2019,600
+Srinagar,Assault,2020,567
+Srinagar,Assault,2021,612
+Srinagar,Assault,2022,681
+Srinagar,Assault,2023,575
+Srinagar,Assault,2024,531
+Srinagar,Kidnapping,2015,1958
+Srinagar,Kidnapping,2016,1898
+Srinagar,Kidnapping,2017,1795
+Srinagar,Kidnapping,2018,1948
+Srinagar,Kidnapping,2019,1882
+Srinagar,Kidnapping,2020,1901
+Srinagar,Kidnapping,2021,1929
+Srinagar,Kidnapping,2022,1916
+Srinagar,Kidnapping,2023,1949
+Srinagar,Kidnapping,2024,1898
+Srinagar,Cyber Crime,2015,908
+Srinagar,Cyber Crime,2016,871
+Srinagar,Cyber Crime,2017,922
+Srinagar,Cyber Crime,2018,918
+Srinagar,Cyber Crime,2019,842
+Srinagar,Cyber Crime,2020,941
+Srinagar,Cyber Crime,2021,861
+Srinagar,Cyber Crime,2022,927
+Srinagar,Cyber Crime,2023,914
+Srinagar,Cyber Crime,2024,988
+Srinagar,Drug Trafficking,2015,513
+Srinagar,Drug Trafficking,2016,509
+Srinagar,Drug Trafficking,2017,527
+Srinagar,Drug Trafficking,2018,515
+Srinagar,Drug Trafficking,2019,568
+Srinagar,Drug Trafficking,2020,453
+Srinagar,Drug Trafficking,2021,476
+Srinagar,Drug Trafficking,2022,484
+Srinagar,Drug Trafficking,2023,588
+Srinagar,Drug Trafficking,2024,620
+Srinagar,Domestic Violence,2015,1058
+Srinagar,Domestic Violence,2016,1057
+Srinagar,Domestic Violence,2017,1071
+Srinagar,Domestic Violence,2018,1124
+Srinagar,Domestic Violence,2019,1019
+Srinagar,Domestic Violence,2020,1080
+Srinagar,Domestic Violence,2021,1121
+Srinagar,Domestic Violence,2022,1102
+Srinagar,Domestic Violence,2023,1081
+Srinagar,Domestic Violence,2024,1124
+Srinagar,Robbery,2015,1227
+Srinagar,Robbery,2016,1398
+Srinagar,Robbery,2017,1334
+Srinagar,Robbery,2018,1276
+Srinagar,Robbery,2019,1393
+Srinagar,Robbery,2020,1435
+Srinagar,Robbery,2021,1360
+Srinagar,Robbery,2022,1415
+Srinagar,Robbery,2023,1453
+Srinagar,Robbery,2024,1436
+Ranchi,Murder,2015,512
+Ranchi,Murder,2016,469
+Ranchi,Murder,2017,436
+Ranchi,Murder,2018,355
+Ranchi,Murder,2019,421
+Ranchi,Murder,2020,395
+Ranchi,Murder,2021,548
+Ranchi,Murder,2022,429
+Ranchi,Murder,2023,446
+Ranchi,Murder,2024,467
+Ranchi,Theft,2015,872
+Ranchi,Theft,2016,955
+Ranchi,Theft,2017,840
+Ranchi,Theft,2018,882
+Ranchi,Theft,2019,836
+Ranchi,Theft,2020,808
+Ranchi,Theft,2021,844
+Ranchi,Theft,2022,879
+Ranchi,Theft,2023,863
+Ranchi,Theft,2024,843
+Ranchi,Assault,2015,1459
+Ranchi,Assault,2016,1526
+Ranchi,Assault,2017,1456
+Ranchi,Assault,2018,1570
+Ranchi,Assault,2019,1540
+Ranchi,Assault,2020,1463
+Ranchi,Assault,2021,1518
+Ranchi,Assault,2022,1503
+Ranchi,Assault,2023,1561
+Ranchi,Assault,2024,1613
+Ranchi,Kidnapping,2015,1532
+Ranchi,Kidnapping,2016,1632
+Ranchi,Kidnapping,2017,1621
+Ranchi,Kidnapping,2018,1662
+Ranchi,Kidnapping,2019,1642
+Ranchi,Kidnapping,2020,1592
+Ranchi,Kidnapping,2021,1614
+Ranchi,Kidnapping,2022,1591
+Ranchi,Kidnapping,2023,1692
+Ranchi,Kidnapping,2024,1639
+Ranchi,Cyber Crime,2015,996
+Ranchi,Cyber Crime,2016,899
+Ranchi,Cyber Crime,2017,868
+Ranchi,Cyber Crime,2018,830
+Ranchi,Cyber Crime,2019,817
+Ranchi,Cyber Crime,2020,830
+Ranchi,Cyber Crime,2021,923
+Ranchi,Cyber Crime,2022,936
+Ranchi,Cyber Crime,2023,835
+Ranchi,Cyber Crime,2024,957
+Ranchi,Drug Trafficking,2015,1106
+Ranchi,Drug Trafficking,2016,1138
+Ranchi,Drug Trafficking,2017,1214
+Ranchi,Drug Trafficking,2018,1177
+Ranchi,Drug Trafficking,2019,1122
+Ranchi,Drug Trafficking,2020,1092
+Ranchi,Drug Trafficking,2021,1031
+Ranchi,Drug Trafficking,2022,1100
+Ranchi,Drug Trafficking,2023,1128
+Ranchi,Drug Trafficking,2024,1093
+Ranchi,Domestic Violence,2015,281
+Ranchi,Domestic Violence,2016,293
+Ranchi,Domestic Violence,2017,279
+Ranchi,Domestic Violence,2018,261
+Ranchi,Domestic Violence,2019,301
+Ranchi,Domestic Violence,2020,313
+Ranchi,Domestic Violence,2021,237
+Ranchi,Domestic Violence,2022,366
+Ranchi,Domestic Violence,2023,293
+Ranchi,Domestic Violence,2024,300
+Ranchi,Robbery,2015,1462
+Ranchi,Robbery,2016,1440
+Ranchi,Robbery,2017,1476
+Ranchi,Robbery,2018,1446
+Ranchi,Robbery,2019,1402
+Ranchi,Robbery,2020,1451
+Ranchi,Robbery,2021,1373
+Ranchi,Robbery,2022,1439
+Ranchi,Robbery,2023,1430
+Ranchi,Robbery,2024,1434
+Amritsar,Murder,2015,1957
+Amritsar,Murder,2016,1871
+Amritsar,Murder,2017,1938
+Amritsar,Murder,2018,1971
+Amritsar,Murder,2019,1975
+Amritsar,Murder,2020,1916
+Amritsar,Murder,2021,2036
+Amritsar,Murder,2022,1931
+Amritsar,Murder,2023,2028
+Amritsar,Murder,2024,1994
+Amritsar,Theft,2015,1842
+Amritsar,Theft,2016,1965
+Amritsar,Theft,2017,1819
+Amritsar,Theft,2018,1924
+Amritsar,Theft,2019,1931
+Amritsar,Theft,2020,1848
+Amritsar,Theft,2021,1952
+Amritsar,Theft,2022,1872
+Amritsar,Theft,2023,1897
+Amritsar,Theft,2024,1894
+Amritsar,Assault,2015,1143
+Amritsar,Assault,2016,1191
+Amritsar,Assault,2017,1193
+Amritsar,Assault,2018,1067
+Amritsar,Assault,2019,1221
+Amritsar,Assault,2020,1076
+Amritsar,Assault,2021,1208
+Amritsar,Assault,2022,1217
+Amritsar,Assault,2023,1104
+Amritsar,Assault,2024,1139
+Amritsar,Kidnapping,2015,464
+Amritsar,Kidnapping,2016,510
+Amritsar,Kidnapping,2017,506
+Amritsar,Kidnapping,2018,564
+Amritsar,Kidnapping,2019,591
+Amritsar,Kidnapping,2020,593
+Amritsar,Kidnapping,2021,502
+Amritsar,Kidnapping,2022,517
+Amritsar,Kidnapping,2023,449
+Amritsar,Kidnapping,2024,496
+Amritsar,Cyber Crime,2015,130
+Amritsar,Cyber Crime,2016,163
+Amritsar,Cyber Crime,2017,23
+Amritsar,Cyber Crime,2018,55
+Amritsar,Cyber Crime,2019,86
+Amritsar,Cyber Crime,2020,105
+Amritsar,Cyber Crime,2021,46
+Amritsar,Cyber Crime,2022,107
+Amritsar,Cyber Crime,2023,67
+Amritsar,Cyber Crime,2024,93
+Amritsar,Drug Trafficking,2015,1621
+Amritsar,Drug Trafficking,2016,1594
+Amritsar,Drug Trafficking,2017,1574
+Amritsar,Drug Trafficking,2018,1591
+Amritsar,Drug Trafficking,2019,1596
+Amritsar,Drug Trafficking,2020,1583
+Amritsar,Drug Trafficking,2021,1586
+Amritsar,Drug Trafficking,2022,1683
+Amritsar,Drug Trafficking,2023,1634
+Amritsar,Drug Trafficking,2024,1588
+Amritsar,Domestic Violence,2015,702
+Amritsar,Domestic Violence,2016,653
+Amritsar,Domestic Violence,2017,729
+Amritsar,Domestic Violence,2018,689
+Amritsar,Domestic Violence,2019,666
+Amritsar,Domestic Violence,2020,697
+Amritsar,Domestic Violence,2021,597
+Amritsar,Domestic Violence,2022,622
+Amritsar,Domestic Violence,2023,614
+Amritsar,Domestic Violence,2024,688
+Amritsar,Robbery,2015,1274
+Amritsar,Robbery,2016,1301
+Amritsar,Robbery,2017,1223
+Amritsar,Robbery,2018,1217
+Amritsar,Robbery,2019,1104
+Amritsar,Robbery,2020,1165
+Amritsar,Robbery,2021,1155
+Amritsar,Robbery,2022,1162
+Amritsar,Robbery,2023,1188
+Amritsar,Robbery,2024,1179
+Guwahati,Murder,2015,920
+Guwahati,Murder,2016,1057
+Guwahati,Murder,2017,968
+Guwahati,Murder,2018,1033
+Guwahati,Murder,2019,1127
+Guwahati,Murder,2020,975
+Guwahati,Murder,2021,899
+Guwahati,Murder,2022,1012
+Guwahati,Murder,2023,1084
+Guwahati,Murder,2024,1126
+Guwahati,Theft,2015,510
+Guwahati,Theft,2016,598
+Guwahati,Theft,2017,552
+Guwahati,Theft,2018,572
+Guwahati,Theft,2019,706
+Guwahati,Theft,2020,504
+Guwahati,Theft,2021,589
+Guwahati,Theft,2022,601
+Guwahati,Theft,2023,638
+Guwahati,Theft,2024,589
+Guwahati,Assault,2015,1854
+Guwahati,Assault,2016,1821
+Guwahati,Assault,2017,1855
+Guwahati,Assault,2018,1826
+Guwahati,Assault,2019,1873
+Guwahati,Assault,2020,1824
+Guwahati,Assault,2021,1869
+Guwahati,Assault,2022,1844
+Guwahati,Assault,2023,1910
+Guwahati,Assault,2024,1843
+Guwahati,Kidnapping,2015,350
+Guwahati,Kidnapping,2016,502
+Guwahati,Kidnapping,2017,397
+Guwahati,Kidnapping,2018,409
+Guwahati,Kidnapping,2019,412
+Guwahati,Kidnapping,2020,514
+Guwahati,Kidnapping,2021,337
+Guwahati,Kidnapping,2022,608
+Guwahati,Kidnapping,2023,502
+Guwahati,Kidnapping,2024,465
+Guwahati,Cyber Crime,2015,826
+Guwahati,Cyber Crime,2016,844
+Guwahati,Cyber Crime,2017,856
+Guwahati,Cyber Crime,2018,864
+Guwahati,Cyber Crime,2019,864
+Guwahati,Cyber Crime,2020,839
+Guwahati,Cyber Crime,2021,829
+Guwahati,Cyber Crime,2022,832
+Guwahati,Cyber Crime,2023,832
+Guwahati,Cyber Crime,2024,894
+Guwahati,Drug Trafficking,2015,495
+Guwahati,Drug Trafficking,2016,320
+Guwahati,Drug Trafficking,2017,501
+Guwahati,Drug Trafficking,2018,478
+Guwahati,Drug Trafficking,2019,467
+Guwahati,Drug Trafficking,2020,451
+Guwahati,Drug Trafficking,2021,533
+Guwahati,Drug Trafficking,2022,522
+Guwahati,Drug Trafficking,2023,436
+Guwahati,Drug Trafficking,2024,492
+Guwahati,Domestic Violence,2015,676
+Guwahati,Domestic Violence,2016,657
+Guwahati,Domestic Violence,2017,695
+Guwahati,Domestic Violence,2018,772
+Guwahati,Domestic Violence,2019,780
+Guwahati,Domestic Violence,2020,755
+Guwahati,Domestic Violence,2021,771
+Guwahati,Domestic Violence,2022,759
+Guwahati,Domestic Violence,2023,705
+Guwahati,Domestic Violence,2024,761
+Guwahati,Robbery,2015,1033
+Guwahati,Robbery,2016,1032
+Guwahati,Robbery,2017,1053
+Guwahati,Robbery,2018,1033
+Guwahati,Robbery,2019,1015
+Guwahati,Robbery,2020,1055
+Guwahati,Robbery,2021,999
+Guwahati,Robbery,2022,959
+Guwahati,Robbery,2023,989
+Guwahati,Robbery,2024,960
+Jodhpur,Murder,2015,1750
+Jodhpur,Murder,2016,1778
+Jodhpur,Murder,2017,1745
+Jodhpur,Murder,2018,1770
+Jodhpur,Murder,2019,1692
+Jodhpur,Murder,2020,1801
+Jodhpur,Murder,2021,1787
+Jodhpur,Murder,2022,1748
+Jodhpur,Murder,2023,1823
+Jodhpur,Murder,2024,1841
+Jodhpur,Theft,2015,92
+Jodhpur,Theft,2016,136
+Jodhpur,Theft,2017,137
+Jodhpur,Theft,2018,129
+Jodhpur,Theft,2019,219
+Jodhpur,Theft,2020,165
+Jodhpur,Theft,2021,167
+Jodhpur,Theft,2022,76
+Jodhpur,Theft,2023,215
+Jodhpur,Theft,2024,119
+Jodhpur,Assault,2015,639
+Jodhpur,Assault,2016,652
+Jodhpur,Assault,2017,708
+Jodhpur,Assault,2018,576
+Jodhpur,Assault,2019,493
+Jodhpur,Assault,2020,649
+Jodhpur,Assault,2021,730
+Jodhpur,Assault,2022,704
+Jodhpur,Assault,2023,653
+Jodhpur,Assault,2024,624
+Jodhpur,Kidnapping,2015,1759
+Jodhpur,Kidnapping,2016,1672
+Jodhpur,Kidnapping,2017,1744
+Jodhpur,Kidnapping,2018,1750
+Jodhpur,Kidnapping,2019,1776
+Jodhpur,Kidnapping,2020,1861
+Jodhpur,Kidnapping,2021,1747
+Jodhpur,Kidnapping,2022,1700
+Jodhpur,Kidnapping,2023,1731
+Jodhpur,Kidnapping,2024,1636
+Jodhpur,Cyber Crime,2015,1772
+Jodhpur,Cyber Crime,2016,1787
+Jodhpur,Cyber Crime,2017,1783
+Jodhpur,Cyber Crime,2018,1817
+Jodhpur,Cyber Crime,2019,1770
+Jodhpur,Cyber Crime,2020,1870
+Jodhpur,Cyber Crime,2021,1816
+Jodhpur,Cyber Crime,2022,1810
+Jodhpur,Cyber Crime,2023,1804
+Jodhpur,Cyber Crime,2024,1827
+Jodhpur,Drug Trafficking,2015,769
+Jodhpur,Drug Trafficking,2016,686
+Jodhpur,Drug Trafficking,2017,696
+Jodhpur,Drug Trafficking,2018,716
+Jodhpur,Drug Trafficking,2019,662
+Jodhpur,Drug Trafficking,2020,691
+Jodhpur,Drug Trafficking,2021,715
+Jodhpur,Drug Trafficking,2022,784
+Jodhpur,Drug Trafficking,2023,750
+Jodhpur,Drug Trafficking,2024,742
+Jodhpur,Domestic Violence,2015,244
+Jodhpur,Domestic Violence,2016,196
+Jodhpur,Domestic Violence,2017,224
+Jodhpur,Domestic Violence,2018,201
+Jodhpur,Domestic Violence,2019,218
+Jodhpur,Domestic Violence,2020,181
+Jodhpur,Domestic Violence,2021,83
+Jodhpur,Domestic Violence,2022,200
+Jodhpur,Domestic Violence,2023,278
+Jodhpur,Domestic Violence,2024,263
+Jodhpur,Robbery,2015,1779
+Jodhpur,Robbery,2016,1793
+Jodhpur,Robbery,2017,1736
+Jodhpur,Robbery,2018,1743
+Jodhpur,Robbery,2019,1707
+Jodhpur,Robbery,2020,1720
+Jodhpur,Robbery,2021,1772
+Jodhpur,Robbery,2022,1798
+Jodhpur,Robbery,2023,1737
+Jodhpur,Robbery,2024,1714
+Coimbatore,Murder,2015,1461
+Coimbatore,Murder,2016,1492
+Coimbatore,Murder,2017,1392
+Coimbatore,Murder,2018,1347
+Coimbatore,Murder,2019,1438
+Coimbatore,Murder,2020,1408
+Coimbatore,Murder,2021,1441
+Coimbatore,Murder,2022,1465
+Coimbatore,Murder,2023,1453
+Coimbatore,Murder,2024,1543
+Coimbatore,Theft,2015,1650
+Coimbatore,Theft,2016,1650
+Coimbatore,Theft,2017,1668
+Coimbatore,Theft,2018,1580
+Coimbatore,Theft,2019,1689
+Coimbatore,Theft,2020,1636
+Coimbatore,Theft,2021,1673
+Coimbatore,Theft,2022,1585
+Coimbatore,Theft,2023,1567
+Coimbatore,Theft,2024,1684
+Coimbatore,Assault,2015,1649
+Coimbatore,Assault,2016,1587
+Coimbatore,Assault,2017,1590
+Coimbatore,Assault,2018,1689
+Coimbatore,Assault,2019,1574
+Coimbatore,Assault,2020,1720
+Coimbatore,Assault,2021,1594
+Coimbatore,Assault,2022,1674
+Coimbatore,Assault,2023,1622
+Coimbatore,Assault,2024,1667
+Coimbatore,Kidnapping,2015,32
+Coimbatore,Kidnapping,2016,53
+Coimbatore,Kidnapping,2017,65
+Coimbatore,Kidnapping,2018,11
+Coimbatore,Kidnapping,2019,99
+Coimbatore,Kidnapping,2020,40
+Coimbatore,Kidnapping,2021,56
+Coimbatore,Kidnapping,2022,19
+Coimbatore,Kidnapping,2023,0
+Coimbatore,Kidnapping,2024,56
+Coimbatore,Cyber Crime,2015,1305
+Coimbatore,Cyber Crime,2016,1225
+Coimbatore,Cyber Crime,2017,1186
+Coimbatore,Cyber Crime,2018,1175
+Coimbatore,Cyber Crime,2019,1189
+Coimbatore,Cyber Crime,2020,1217
+Coimbatore,Cyber Crime,2021,1129
+Coimbatore,Cyber Crime,2022,1253
+Coimbatore,Cyber Crime,2023,1235
+Coimbatore,Cyber Crime,2024,1238
+Coimbatore,Drug Trafficking,2015,1242
+Coimbatore,Drug Trafficking,2016,1223
+Coimbatore,Drug Trafficking,2017,1256
+Coimbatore,Drug Trafficking,2018,1253
+Coimbatore,Drug Trafficking,2019,1206
+Coimbatore,Drug Trafficking,2020,1195
+Coimbatore,Drug Trafficking,2021,1230
+Coimbatore,Drug Trafficking,2022,1304
+Coimbatore,Drug Trafficking,2023,1166
+Coimbatore,Drug Trafficking,2024,1162
+Coimbatore,Domestic Violence,2015,797
+Coimbatore,Domestic Violence,2016,792
+Coimbatore,Domestic Violence,2017,800
+Coimbatore,Domestic Violence,2018,805
+Coimbatore,Domestic Violence,2019,781
+Coimbatore,Domestic Violence,2020,866
+Coimbatore,Domestic Violence,2021,714
+Coimbatore,Domestic Violence,2022,761
+Coimbatore,Domestic Violence,2023,791
+Coimbatore,Domestic Violence,2024,719
+Coimbatore,Robbery,2015,1687
+Coimbatore,Robbery,2016,1780
+Coimbatore,Robbery,2017,1699
+Coimbatore,Robbery,2018,1712
+Coimbatore,Robbery,2019,1638
+Coimbatore,Robbery,2020,1672
+Coimbatore,Robbery,2021,1682
+Coimbatore,Robbery,2022,1689
+Coimbatore,Robbery,2023,1772
+Coimbatore,Robbery,2024,1734
+Vijayawada,Murder,2015,357
+Vijayawada,Murder,2016,427
+Vijayawada,Murder,2017,439
+Vijayawada,Murder,2018,474
+Vijayawada,Murder,2019,496
+Vijayawada,Murder,2020,369
+Vijayawada,Murder,2021,377
+Vijayawada,Murder,2022,357
+Vijayawada,Murder,2023,415
+Vijayawada,Murder,2024,446
+Vijayawada,Theft,2015,332
+Vijayawada,Theft,2016,280
+Vijayawada,Theft,2017,270
+Vijayawada,Theft,2018,292
+Vijayawada,Theft,2019,247
+Vijayawada,Theft,2020,390
+Vijayawada,Theft,2021,212
+Vijayawada,Theft,2022,305
+Vijayawada,Theft,2023,390
+Vijayawada,Theft,2024,298
+Vijayawada,Assault,2015,1742
+Vijayawada,Assault,2016,1735
+Vijayawada,Assault,2017,1746
+Vijayawada,Assault,2018,1823
+Vijayawada,Assault,2019,1646
+Vijayawada,Assault,2020,1835
+Vijayawada,Assault,2021,1685
+Vijayawada,Assault,2022,1749
+Vijayawada,Assault,2023,1743
+Vijayawada,Assault,2024,1796
+Vijayawada,Kidnapping,2015,121
+Vijayawada,Kidnapping,2016,225
+Vijayawada,Kidnapping,2017,304
+Vijayawada,Kidnapping,2018,136
+Vijayawada,Kidnapping,2019,218
+Vijayawada,Kidnapping,2020,176
+Vijayawada,Kidnapping,2021,229
+Vijayawada,Kidnapping,2022,205
+Vijayawada,Kidnapping,2023,184
+Vijayawada,Kidnapping,2024,239
+Vijayawada,Cyber Crime,2015,1803
+Vijayawada,Cyber Crime,2016,1704
+Vijayawada,Cyber Crime,2017,1750
+Vijayawada,Cyber Crime,2018,1653
+Vijayawada,Cyber Crime,2019,1671
+Vijayawada,Cyber Crime,2020,1741
+Vijayawada,Cyber Crime,2021,1796
+Vijayawada,Cyber Crime,2022,1734
+Vijayawada,Cyber Crime,2023,1713
+Vijayawada,Cyber Crime,2024,1726
+Vijayawada,Drug Trafficking,2015,805
+Vijayawada,Drug Trafficking,2016,899
+Vijayawada,Drug Trafficking,2017,915
+Vijayawada,Drug Trafficking,2018,847
+Vijayawada,Drug Trafficking,2019,847
+Vijayawada,Drug Trafficking,2020,885
+Vijayawada,Drug Trafficking,2021,855
+Vijayawada,Drug Trafficking,2022,874
+Vijayawada,Drug Trafficking,2023,985
+Vijayawada,Drug Trafficking,2024,863
+Vijayawada,Domestic Violence,2015,798
+Vijayawada,Domestic Violence,2016,785
+Vijayawada,Domestic Violence,2017,855
+Vijayawada,Domestic Violence,2018,810
+Vijayawada,Domestic Violence,2019,787
+Vijayawada,Domestic Violence,2020,884
+Vijayawada,Domestic Violence,2021,890
+Vijayawada,Domestic Violence,2022,793
+Vijayawada,Domestic Violence,2023,738
+Vijayawada,Domestic Violence,2024,872
+Vijayawada,Robbery,2015,1941
+Vijayawada,Robbery,2016,2016
+Vijayawada,Robbery,2017,1879
+Vijayawada,Robbery,2018,2025
+Vijayawada,Robbery,2019,1920
+Vijayawada,Robbery,2020,2017
+Vijayawada,Robbery,2021,1980
+Vijayawada,Robbery,2022,1939
+Vijayawada,Robbery,2023,1965
+Vijayawada,Robbery,2024,2015
+Chandigarh,Murder,2015,146
+Chandigarh,Murder,2016,170
+Chandigarh,Murder,2017,243
+Chandigarh,Murder,2018,67
+Chandigarh,Murder,2019,227
+Chandigarh,Murder,2020,149
+Chandigarh,Murder,2021,107
+Chandigarh,Murder,2022,80
+Chandigarh,Murder,2023,137
+Chandigarh,Murder,2024,193
+Chandigarh,Theft,2015,1189
+Chandigarh,Theft,2016,1272
+Chandigarh,Theft,2017,1126
+Chandigarh,Theft,2018,1199
+Chandigarh,Theft,2019,1136
+Chandigarh,Theft,2020,1221
+Chandigarh,Theft,2021,1246
+Chandigarh,Theft,2022,1186
+Chandigarh,Theft,2023,1080
+Chandigarh,Theft,2024,1216
+Chandigarh,Assault,2015,950
+Chandigarh,Assault,2016,950
+Chandigarh,Assault,2017,992
+Chandigarh,Assault,2018,880
+Chandigarh,Assault,2019,969
+Chandigarh,Assault,2020,991
+Chandigarh,Assault,2021,843
+Chandigarh,Assault,2022,957
+Chandigarh,Assault,2023,910
+Chandigarh,Assault,2024,933
+Chandigarh,Kidnapping,2015,1004
+Chandigarh,Kidnapping,2016,964
+Chandigarh,Kidnapping,2017,955
+Chandigarh,Kidnapping,2018,994
+Chandigarh,Kidnapping,2019,936
+Chandigarh,Kidnapping,2020,938
+Chandigarh,Kidnapping,2021,1027
+Chandigarh,Kidnapping,2022,934
+Chandigarh,Kidnapping,2023,1028
+Chandigarh,Kidnapping,2024,1020
+Chandigarh,Cyber Crime,2015,316
+Chandigarh,Cyber Crime,2016,370
+Chandigarh,Cyber Crime,2017,464
+Chandigarh,Cyber Crime,2018,358
+Chandigarh,Cyber Crime,2019,382
+Chandigarh,Cyber Crime,2020,429
+Chandigarh,Cyber Crime,2021,446
+Chandigarh,Cyber Crime,2022,397
+Chandigarh,Cyber Crime,2023,379
+Chandigarh,Cyber Crime,2024,487
+Chandigarh,Drug Trafficking,2015,1182
+Chandigarh,Drug Trafficking,2016,1146
+Chandigarh,Drug Trafficking,2017,1102
+Chandigarh,Drug Trafficking,2018,1058
+Chandigarh,Drug Trafficking,2019,1059
+Chandigarh,Drug Trafficking,2020,1128
+Chandigarh,Drug Trafficking,2021,1128
+Chandigarh,Drug Trafficking,2022,1179
+Chandigarh,Drug Trafficking,2023,1134
+Chandigarh,Drug Trafficking,2024,1027
+Chandigarh,Domestic Violence,2015,693
+Chandigarh,Domestic Violence,2016,592
+Chandigarh,Domestic Violence,2017,624
+Chandigarh,Domestic Violence,2018,655
+Chandigarh,Domestic Violence,2019,744
+Chandigarh,Domestic Violence,2020,799
+Chandigarh,Domestic Violence,2021,675
+Chandigarh,Domestic Violence,2022,643
+Chandigarh,Domestic Violence,2023,683
+Chandigarh,Domestic Violence,2024,696
+Chandigarh,Robbery,2015,1046
+Chandigarh,Robbery,2016,1153
+Chandigarh,Robbery,2017,1077
+Chandigarh,Robbery,2018,1091
+Chandigarh,Robbery,2019,1099
+Chandigarh,Robbery,2020,1090
+Chandigarh,Robbery,2021,1115
+Chandigarh,Robbery,2022,1037
+Chandigarh,Robbery,2023,1039
+Chandigarh,Robbery,2024,1015
+Madurai,Murder,2015,662
+Madurai,Murder,2016,681
+Madurai,Murder,2017,667
+Madurai,Murder,2018,729
+Madurai,Murder,2019,646
+Madurai,Murder,2020,677
+Madurai,Murder,2021,590
+Madurai,Murder,2022,633
+Madurai,Murder,2023,689
+Madurai,Murder,2024,692
+Madurai,Theft,2015,1719
+Madurai,Theft,2016,1732
+Madurai,Theft,2017,1660
+Madurai,Theft,2018,1718
+Madurai,Theft,2019,1783
+Madurai,Theft,2020,1770
+Madurai,Theft,2021,1767
+Madurai,Theft,2022,1742
+Madurai,Theft,2023,1748
+Madurai,Theft,2024,1705
+Madurai,Assault,2015,622
+Madurai,Assault,2016,610
+Madurai,Assault,2017,614
+Madurai,Assault,2018,567
+Madurai,Assault,2019,486
+Madurai,Assault,2020,647
+Madurai,Assault,2021,574
+Madurai,Assault,2022,554
+Madurai,Assault,2023,630
+Madurai,Assault,2024,582
+Madurai,Kidnapping,2015,1397
+Madurai,Kidnapping,2016,1377
+Madurai,Kidnapping,2017,1382
+Madurai,Kidnapping,2018,1281
+Madurai,Kidnapping,2019,1412
+Madurai,Kidnapping,2020,1364
+Madurai,Kidnapping,2021,1334
+Madurai,Kidnapping,2022,1361
+Madurai,Kidnapping,2023,1262
+Madurai,Kidnapping,2024,1383
+Madurai,Cyber Crime,2015,597
+Madurai,Cyber Crime,2016,582
+Madurai,Cyber Crime,2017,576
+Madurai,Cyber Crime,2018,710
+Madurai,Cyber Crime,2019,623
+Madurai,Cyber Crime,2020,728
+Madurai,Cyber Crime,2021,633
+Madurai,Cyber Crime,2022,575
+Madurai,Cyber Crime,2023,608
+Madurai,Cyber Crime,2024,728
+Madurai,Drug Trafficking,2015,1817
+Madurai,Drug Trafficking,2016,1799
+Madurai,Drug Trafficking,2017,1834
+Madurai,Drug Trafficking,2018,1852
+Madurai,Drug Trafficking,2019,1884
+Madurai,Drug Trafficking,2020,1901
+Madurai,Drug Trafficking,2021,1817
+Madurai,Drug Trafficking,2022,1766
+Madurai,Drug Trafficking,2023,1810
+Madurai,Drug Trafficking,2024,1851
+Madurai,Domestic Violence,2015,1286
+Madurai,Domestic Violence,2016,1288
+Madurai,Domestic Violence,2017,1355
+Madurai,Domestic Violence,2018,1338
+Madurai,Domestic Violence,2019,1339
+Madurai,Domestic Violence,2020,1303
+Madurai,Domestic Violence,2021,1328
+Madurai,Domestic Violence,2022,1302
+Madurai,Domestic Violence,2023,1387
+Madurai,Domestic Violence,2024,1404
+Madurai,Robbery,2015,627
+Madurai,Robbery,2016,675
+Madurai,Robbery,2017,648
+Madurai,Robbery,2018,689
+Madurai,Robbery,2019,723
+Madurai,Robbery,2020,654
+Madurai,Robbery,2021,683
+Madurai,Robbery,2022,682
+Madurai,Robbery,2023,743
+Madurai,Robbery,2024,733
