@@ -30,3 +30,7 @@ This tool can support **public safety planning, resource allocation, and policy 
 - CSV files (`full_data.csv`, `future_years.csv`)  
 
 ---
+## 📸 Crime Rate Forecasting: 
+
+### 🏠 Home Page
+![Home Page](assets/home_page.png)
