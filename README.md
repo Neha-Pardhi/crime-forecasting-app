@@ -33,4 +33,4 @@ This tool can support **public safety planning, resource allocation, and policy 
 ## 📸 Crime Rate Forecasting: 
 
 ### 🏠 Home Page
-![Home Page](assets/home_page.png)
+![Home Page](home_page.png)
