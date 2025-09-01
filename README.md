@@ -1,6 +1,5 @@
 # 🔮 Crime Rate Forecasting Web Application
 
-### 🏠 Home Page
 ![Home Page](screenshots/home_page.png)
 
 ## 📖 Overview
