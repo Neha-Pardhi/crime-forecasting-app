@@ -1,5 +1,8 @@
 # 🔮 Crime Rate Forecasting Web Application
 
+### 🏠 Home Page
+![Home Page](screenshots/home_page.png)
+
 ## 📖 Overview
 This project is a **Machine Learning-powered web application** that forecasts crime rates for different cities and crime categories.  
 Using historical crime datasets (2015–2024), the system predicts future crime counts (e.g., 2025–2027) with the help of **Random Forest Regressor** and **XGBoost Regressor** models.  
